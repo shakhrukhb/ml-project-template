@@ -1,0 +1,1958 @@
+{
+  "book": "English for Everyone: Phrasal Verbs",
+  "units": [
+    {
+      "unit_id": 1,
+      "title": "People & Things",
+      "sections": [
+        {
+          "section_id": "1.1",
+          "title": "People",
+          "verbs": [
+            { "verb": "pack into", "definition": "fit into a place in large numbers", "example": "Hundreds of people packed into the town hall to watch the debate." },
+            { "verb": "fit in (with)", "definition": "feel like you belong in a group", "example": "I found it really hard to fit in with the art class. They're all much younger than me." },
+            { "verb": "gang up (on)", "definition": "form a group to hurt someone", "example": "Some of the older children have been ganging up on me and calling me names." },
+            { "verb": "look down on", "definition": "think you are better than another person", "example": "Sheila's neighbors look down on her because her house is smaller than theirs." },
+            { "verb": "ask after", "definition": "ask for news about someone", "example": "I bumped into Sandra at the park. She was asking after you." },
+            { "verb": "flood in(to)", "definition": "enter a space in large numbers", "example": "Thousands of fans flooded into the stadium to watch the singer perform." },
+            { "verb": "spill out (of)", "definition": "leave a space in large numbers", "example": "After the concert, everyone spilled out of the stadium and made their way to the train station." },
+            { "verb": "watch over", "definition": "make sure nothing bad happens to someone or something", "example": "My sister watched over our son while Ania and I went shopping." },
+            { "verb": "turn on", "definition": "attack someone without warning", "example": "Adi has got a temper. He turned on me the instant I suggested he buy a new suit." },
+            { "verb": "butter up", "definition": "praise or flatter someone so that they will do you a favor", "example": "Toshiro's been buttering his brother up because he wants to borrow his car." },
+            { "verb": "fuss over", "definition": "pay a lot of attention to someone", "example": "Jordan's aunts always fuss over him when they come to visit." },
+            { "verb": "look up to", "definition": "admire someone", "example": "Barney really looks up to his grandfather. He loves listening to his stories." }
+          ]
+        },
+        {
+          "section_id": "1.2",
+          "title": "Things",
+          "verbs": [
+            { "verb": "gather up", "definition": "collect things together", "example": "Nuwa gathered up the plates from the table and took them to the kitchen." },
+            { "verb": "part with", "definition": "relinquish something important to you", "example": "It was really hard to part with my old car. I'd had it since I was a student." },
+            { "verb": "come across", "definition": "find something by chance", "example": "While looking through things in my attic, I came across an old portrait of my great-grandfather." },
+            { "verb": "get back (from)", "definition": "retrieve something", "example": "Mel lent Dave her lawnmower a month ago, and she finally got it back from him." },
+            { "verb": "turn up", "definition": "be found (usually by accident)", "example": "Ava lost her passport ages ago. It turned up when she was cleaning the living room." }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": 2,
+      "title": "Family & Pets",
+      "sections": [
+        {
+          "section_id": "2.1",
+          "title": "Family",
+          "verbs": [
+            { "verb": "get on (with)", "definition": "have a good relationship with someone", "example": "Liam gets on very well with his elder sister. They're always laughing together." },
+            { "verb": "bring up", "definition": "teach children how to behave", "example": "Dan and Sheila have brought up their children to be kind to animals." },
+            { "verb": "live with", "definition": "share the same house", "example": "Colin lives with his son in a house at the edge of town." },
+            { "verb": "grow up", "definition": "develop from child to adult", "example": "Sam wants to be a pilot when he grows up." },
+            { "verb": "grow out of", "definition": "lose interest in something as you get older", "example": "Jenny's grown out of her old toys. She prefers playing video games now." },
+            { "verb": "name after", "definition": "give someone the same name as someone else", "example": "Albert's parents named him after his great-grandfather." }
+          ]
+        },
+        {
+          "section_id": "2.2",
+          "title": "Pets",
+          "verbs": [
+            { "verb": "put in", "definition": "place inside", "example": "Lisa puts her rabbit in its cage each evening before bed." },
+            { "verb": "warm to", "definition": "become fond of", "example": "Fiona's cat doesn't like strangers, but he's warming to Dan." },
+            { "verb": "let out", "definition": "allow to leave", "example": "I let the cat out every morning after I've woken up." },
+            { "verb": "let in", "definition": "allow to enter", "example": "I let the cat in when it started to rain." },
+            { "verb": "settle down", "definition": "live in one place", "example": "After traveling for a few years, Bill settled down and bought a house next door to his parents." },
+            { "verb": "look after", "definition": "care for, take responsibility for", "example": "My mother looks after my children while I'm at work." },
+            { "verb": "take after", "definition": "have the characteristics of a parent or relative", "example": "Jasmine takes after her mother. They're very similar people." },
+            { "verb": "pull together", "definition": "work as a group to deal with a difficult situation", "example": "My family pulled together when my father was unwell." },
+            { "verb": "tell apart", "definition": "recognize the difference", "example": "Will and Joe are identical twins. It's almost impossible to tell them apart." },
+            { "verb": "wait up", "definition": "wait for someone to get home before going to bed", "example": "Whenever his children stay out late, Carlo waits up until they get home." },
+            { "verb": "run away", "definition": "escape", "example": "Olly's dog ran away last week while they were at the park." },
+            { "verb": "come back", "definition": "return", "example": "After a few days, Olly's dog came back all by herself." }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": 3,
+      "title": "Friendships",
+      "sections": [
+        {
+          "section_id": "3.1",
+          "title": "Friendships",
+          "verbs": [
+            { "verb": "bring together", "definition": "create a close relationship", "example": "Our shared interest in music has brought us together." },
+            { "verb": "go off", "definition": "like something or someone less", "example": "I've really gone off Paul since I saw him at the party. He behaved really badly." },
+            { "verb": "stick by", "definition": "continue to support someone", "example": "Ken stuck by Cath when her restaurant went bankrupt." },
+            { "verb": "stand by", "definition": "support or defend someone who is in a difficult situation when other people don't", "example": "Misha stood by Colin when he decided to quit college." },
+            { "verb": "drift apart", "definition": "slowly become less close", "example": "After we left school, my friends and I drifted apart. I became more interested in my career than music." },
+            { "verb": "stick together", "definition": "stay together and support each other", "example": "My best friends and I have stuck together since high school." },
+            { "verb": "confide in", "definition": "share a secret with someone you trust", "example": "Bernadette confided in Martha that she was in love with Pavel." },
+            { "verb": "fizzle out", "definition": "lose energy over a period of time, slowly come to an end", "example": "Katia and I dated for a few weeks, but our relationship fizzled out." },
+            { "verb": "ask out", "definition": "invite someone to go on a date with you", "example": "Robin asked Helen out yesterday. They're going to the movies together." },
+            { "verb": "take out", "definition": "take someone on a date", "example": "For our first date, Phil took me out to an expensive restaurant." },
+            { "verb": "break up (with)", "definition": "end a romantic relationship", "example": "After a huge argument, Maria and Pablo decided to break up." },
+            { "verb": "get back together", "definition": "restart a romantic relationship", "example": "Carlos and Mia separated a few months ago, but they recently got back together." },
+            { "verb": "care for", "definition": "love someone or like them very much", "example": "Jack and Ula really care for each other. They've been together for 50 years." },
+            { "verb": "fall for", "definition": "start loving someone, fall in love", "example": "I think Pierre has fallen for Clara. Have you seen how he looks at her?" },
+            { "verb": "set up", "definition": "arrange a date for someone else", "example": "My brother set me up with a woman who works at his office." }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": 4,
+      "title": "Visiting People & Parties",
+      "sections": [
+        {
+          "section_id": "4.1",
+          "title": "Visiting People",
+          "verbs": [
+            { "verb": "pop in (UK)", "definition": "visit someone at their home (informal)", "example": "I popped in to see Brian on Saturday morning." },
+            { "verb": "stick around", "definition": "stay somewhere longer than planned", "example": "We chatted for hours, and he suggested I stick around for dinner." },
+            { "verb": "turn up", "definition": "arrive (often unexpectedly)", "example": "Angelo turned up at my house at 6am. I was still in bed!" },
+            { "verb": "invite in(to)", "definition": "ask someone to enter your house", "example": "After chatting on the doorstep for a moment, Malik invited me in." },
+            { "verb": "call in (UK)", "definition": "visit someone at their home (often on your way elsewhere)", "example": "On our way home from the beach, we called in to see Grandma." },
+            { "verb": "show out", "definition": "take someone to the door as they leave", "example": "Following the interview, the secretary showed Connor out." },
+            { "verb": "have over", "definition": "have people as guests at your home", "example": "My new neighbors, Kaito and Leiko, had me over for dinner last night." },
+            { "verb": "show around", "definition": "give someone a tour", "example": "They showed me around their beautiful home." },
+            { "verb": "invite along (to)", "definition": "ask someone to go somewhere with you", "example": "It looks like Kia has invited everyone she knows along to the party." },
+            { "verb": "swing by", "definition": "visit someone's house on your way somewhere else", "example": "While you're in town, try to swing by. It would be good to see you." },
+            { "verb": "come in(to)", "definition": "enter a place", "example": "My father came into the house and took off his coat." },
+            { "verb": "drop in", "definition": "visit someone at their home (informal)", "example": "Yesterday afternoon, Liam dropped in for a cup of coffee and a chat." },
+            { "verb": "stop off", "definition": "stop during a journey to do something", "example": "On her way home from the gym, Miriam stopped off at the supermarket to get something for dinner." },
+            { "verb": "snoop around", "definition": "secretly look for something", "example": "While everyone was in the garden, I found Klaus snooping around the kitchen." }
+          ]
+        },
+        {
+          "section_id": "4.2",
+          "title": "A Party Invitation",
+          "verbs": [
+            { "verb": "invite over", "definition": "invite someone to your home", "example": "We'd like to invite you over for a barbecue to celebrate Beth's birthday." },
+            { "verb": "come over", "definition": "visit someone (at their home)", "example": "Omar told us to come over any time after 2pm." },
+            { "verb": "bring along", "definition": "bring someone or something with you", "example": "Mason and Emily brought the kids along to the barbecue." },
+            { "verb": "stay over", "definition": "stay at someone's house overnight", "example": "We ended up staying over at Beth and Omar's house." }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": 5,
+      "title": "Socializing & Leaving",
+      "sections": [
+        {
+          "section_id": "5.1",
+          "title": "Socializing",
+          "verbs": [
+            { "verb": "catch up (with)", "definition": "talk to friends who you have not talked to recently", "example": "Once a year, my school friends and I go out for a meal together to catch up." },
+            { "verb": "come out", "definition": "go somewhere with someone", "example": "Katie asked Lisa if she wanted to come out to play." },
+            { "verb": "hang out (with)", "definition": "spend time at a certain place with your friends (informal)", "example": "Chris spends most weekends hanging out with his friends." },
+            { "verb": "come along (with)", "definition": "accompany someone, go somewhere with someone", "example": "As I was leaving for the art exhibition, I asked Joe if he wanted to come along." },
+            { "verb": "stay in", "definition": "remain at home", "example": "Vincent and Maya decided to stay in. They ordered some pizza and watched a movie." },
+            { "verb": "stay out", "definition": "remain away from home until late", "example": "The carnival was amazing. We stayed out until dawn." }
+          ]
+        },
+        {
+          "section_id": "5.2",
+          "title": "Leaving",
+          "verbs": [
+            { "verb": "take off", "definition": "leave (often unexpectedly)", "example": "Joe suddenly took off without saying where he was going." },
+            { "verb": "slip out", "definition": "leave without telling people", "example": "The movie was terrible, so we slipped out halfway through." },
+            { "verb": "head off (to)", "definition": "leave, begin a journey", "example": "We headed off to the beach early because we wanted to avoid the crowds." },
+            { "verb": "turn away (from)", "definition": "refuse to let someone enter", "example": "Neil was turned away from the nightclub because he was wearing casual clothes." },
+            { "verb": "mill around", "definition": "slowly move around a room or space (often waiting for something)", "example": "Lots of guests were milling around, waiting for Raj to make his speech." },
+            { "verb": "tag along", "definition": "go somewhere with someone (often without an invitation)", "example": "Amara let her little sister tag along when she went to the ice rink with her friends." },
+            { "verb": "go out", "definition": "go somewhere with someone, socialize with friends", "example": "Fleur and Clare were getting ready to go out for the evening." },
+            { "verb": "liven up", "definition": "make something more exciting", "example": "I was glad to see Marvin at the party. He always manages to liven things up." },
+            { "verb": "get together", "definition": "meet and spend time with friends", "example": "Ella likes to get together with her friends at the ice cream parlor on Friday evenings." },
+            { "verb": "storm out (of)", "definition": "leave somewhere because you are angry", "example": "Charlie stormed out of the store when the manager refused to give him a refund." },
+            { "verb": "shoot off (UK)", "definition": "leave quickly (informal)", "example": "Paul had to shoot off at the end of the meeting to catch his train home." },
+            { "verb": "tear away (from)", "definition": "make someone leave a place even though they want to stay", "example": "I hate to tear you away, but we're going to miss the last train." },
+            { "verb": "dash off (UK)", "definition": "leave quickly (informal)", "example": "Nadiya had to dash off to pick up the kids from school." },
+            { "verb": "hire out (UK)", "definition": "allow someone to use something in exchange for money", "example": "Our local hotel has a large room that it hires out for parties." }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": 6,
+      "title": "Clothing",
+      "sections": [
+        {
+          "section_id": "6.1",
+          "title": "Clothing",
+          "verbs": [
+            { "verb": "button up", "definition": "fasten the buttons on a piece of clothing", "example": "Angelica helped her son to button up his shirt as he got ready for school." },
+            { "verb": "throw on", "definition": "put a piece of clothing on quickly", "example": "When Tom realized he was late, he threw on a jacket and tie, and ran for the bus." },
+            { "verb": "come off", "definition": "fall off by mistake", "example": "As Hasan was running across the school yard, one of his shoes came off." },
+            { "verb": "dress up (as)", "definition": "wear a costume to look like something", "example": "All the children at the party had dressed up as dinosaurs." },
+            { "verb": "come out (of)", "definition": "be washed clean (about a stain)", "example": "I hope this juice stain comes out when I wash my shirt." },
+            { "verb": "go with", "definition": "look good with another piece of clothing", "example": "Gemma's shoes go really well with that dress." },
+            { "verb": "show off (to)", "definition": "show people something you are proud of", "example": "Arnie's so proud of his new jacket. He's been showing it off to everyone." },
+            { "verb": "grow into", "definition": "become big enough to wear an item of clothing", "example": "Carly's shoes are too big for her, but she'll grow into them." },
+            { "verb": "grow out of", "definition": "become too big for an item of clothing", "example": "Gio's grown out of his sweater, so he's going to give it to his little brother." },
+            { "verb": "take in", "definition": "make a piece of clothing smaller", "example": "This dress is a bit too big. We'll need to take it in a little." },
+            { "verb": "let out", "definition": "make a piece of clothing bigger", "example": "The jacket is too tight. We need to let it out a bit." },
+            { "verb": "tie up", "definition": "fasten (usually your shoe laces)", "example": "Kelly stopped to tie up one of her shoe laces." },
+            { "verb": "take off", "definition": "remove (a piece of clothing)", "example": "It was very hot in the lecture theater, so Mario took off his sweater." },
+            { "verb": "put on", "definition": "wear a piece of clothing", "example": "Alex put on her prettiest dress to go out for her wedding anniversary." },
+            { "verb": "wrap up", "definition": "wear certain clothes to keep you warm", "example": "Make sure you wrap up before heading out into that cold weather." },
+            { "verb": "hang up", "definition": "place a piece of clothing on a hook or hanger", "example": "Maurice hung up his coat as he walked in." },
+            { "verb": "fold up", "definition": "make a piece of clothing smaller by folding it neatly", "example": "Zane folded up his clothes and put them in the wardrobe." },
+            { "verb": "cover up", "definition": "protect your skin with clothing", "example": "The sun is really strong today, so make sure you cover up." },
+            { "verb": "zip up", "definition": "fasten the zipper on a piece of clothing", "example": "Marlon zipped up his leather jacket and walked toward the door." },
+            { "verb": "do up", "definition": "fasten a piece of clothing", "example": "Mirek did up his coat to keep out the icy breeze." }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": 7,
+      "title": "Cause, Effect & Comparisons",
+      "sections": [
+        {
+          "section_id": "7.1",
+          "title": "Cause and Effect",
+          "verbs": [
+            { "verb": "face up to", "definition": "accept and deal with a bad situation", "example": "Due to her injury, Colleen had to face up to the fact that she couldn't play in the match." },
+            { "verb": "impact on", "definition": "have a strong effect on something", "example": "Heavy traffic has impacted badly on the city's air quality." },
+            { "verb": "result in", "definition": "cause something to happen", "example": "The heavy rain resulted in floods throughout the city." },
+            { "verb": "lead to", "definition": "cause something to happen", "example": "The discovery of some ancient ruins has led to an increase in tourism." },
+            { "verb": "die out", "definition": "disappear, become extinct", "example": "Scientists think that an asteroid colliding with Earth caused the dinosaurs to die out." },
+            { "verb": "bring about", "definition": "cause something to happen", "example": "The invention of the computer brought about the end of the typewriter." }
+          ]
+        },
+        {
+          "section_id": "7.2",
+          "title": "Making Comparisons",
+          "verbs": [
+            { "verb": "compete with", "definition": "be as good as something else", "example": "Old cell phones can't compete with today's smartphones." },
+            { "verb": "measure up (to)", "definition": "be as good as people had hoped", "example": "Sanjay got 100% on his exam. He more than measured up to his parents' expectations." },
+            { "verb": "improve on", "definition": "do something better than before", "example": "To get into college, you'll need to improve on last year's results." },
+            { "verb": "live up to", "definition": "be as good as people had hoped", "example": "The new action movie really lived up to the crowd's expectations." }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": 8,
+      "title": "Daily Routine, Relaxing & Tasks",
+      "sections": [
+        {
+          "section_id": "8.1",
+          "title": "Daily Routine",
+          "verbs": [
+            { "verb": "go off", "definition": "begin ringing (about an alarm clock)", "example": "My alarm goes off at 7am every morning during the week." },
+            { "verb": "freshen up", "definition": "make yourself look clean and tidy", "example": "Orla went to the bathroom to freshen up before going out." },
+            { "verb": "head off (to)", "definition": "leave, begin a journey", "example": "I usually head off to work at 8 in the morning." },
+            { "verb": "wake up", "definition": "stop sleeping, become alert", "example": "Kieran woke up in the middle of the night when he heard a noise outside." },
+            { "verb": "get in", "definition": "arrive home", "example": "In the evening, I often don't get in until after 7pm." },
+            { "verb": "get up", "definition": "get out of bed", "example": "Nico usually gets up at about 10am on Saturdays." }
+          ]
+        },
+        {
+          "section_id": "8.2",
+          "title": "Relaxing",
+          "verbs": [
+            { "verb": "sit down", "definition": "take a sitting position", "example": "When Noel got home from work, he sat down and read a book." },
+            { "verb": "lie down", "definition": "take a lying position", "example": "Sara was feeling tired, so she lay down on the couch and tried to get some rest." },
+            { "verb": "potter about", "definition": "do small tasks in a relaxed way", "example": "Alfred spent the afternoon pottering about in the garden." }
+          ]
+        },
+        {
+          "section_id": "8.3",
+          "title": "Tasks",
+          "verbs": [
+            { "verb": "set about (UK)", "definition": "begin doing something (with energy or enthusiasm)", "example": "Once the guests had left, Marco set about doing the dishes." },
+            { "verb": "get on with", "definition": "concentrate on doing something (usually after a break)", "example": "After a short break, Ramone got on with cleaning the bathroom." },
+            { "verb": "stay up", "definition": "go to bed later than usual", "example": "Martina stayed up late revising for her exam the following morning." },
+            { "verb": "sleep off", "definition": "sleep to allow you to recover from the effects of a drug", "example": "Uma is still sleeping off the effects of the anesthetic. She'll be able to see you soon." },
+            { "verb": "turn in", "definition": "go to bed", "example": "I'm exhausted. I know it's only half past eight, but I'm going to have to turn in." },
+            { "verb": "sleep over", "definition": "sleep at someone else's house (usually about children)", "example": "Bradley is sleeping over at his cousin's house tonight. He's so excited about it." },
+            { "verb": "drop off", "definition": "fall asleep", "example": "After a long day at the office, Andrew dropped off in front of the TV." },
+            { "verb": "sleep through", "definition": "not wake up when your alarm rings", "example": "I slept through my alarm this morning." },
+            { "verb": "doze off", "definition": "fall asleep (often during the day)", "example": "I dozed off during the movie." },
+            { "verb": "nod off", "definition": "fall asleep (without meaning to)", "example": "I tried to wake Mia when I saw she had nodded off at her desk." },
+            { "verb": "sleep in", "definition": "sleep later than usual in the morning", "example": "I love to sleep in on weekends." }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": 9,
+      "title": "Vehicles & Travel",
+      "sections": [
+        {
+          "section_id": "9.1",
+          "title": "Vehicles",
+          "verbs": [
+            { "verb": "break down", "definition": "stop working", "example": "Christina's motorcycle broke down while she was traveling through the desert." },
+            { "verb": "cut out", "definition": "suddenly stop working", "example": "Clive tried to restart the motorboat's engine after it cut out without any warning." },
+            { "verb": "get in(to)", "definition": "enter (a car or taxi)", "example": "Angelo left his house and got into the taxi." },
+            { "verb": "get out (of)", "definition": "exit (a car or taxi)", "example": "As the movie star got out of the limousine, photographers surrounded him." },
+            { "verb": "get on", "definition": "enter (public transportation)", "example": "George and Yolanda got on the train to Paris." },
+            { "verb": "get off", "definition": "exit (public transportation)", "example": "Gina got off the bus when it arrived at her stop." },
+            { "verb": "drive off", "definition": "drive away, leave", "example": "George checked the road for other vehicles before driving off." },
+            { "verb": "turn off", "definition": "leave a road and drive onto a different one", "example": "Tanya turned off the main road and drove along the track to the beach." },
+            { "verb": "turn back", "definition": "return in the direction you have just come from", "example": "Jen turned back when she realized that she had forgotten her phone." },
+            { "verb": "turn onto", "definition": "join a road from a different one", "example": "When you reach the castle, turn onto the highway and head west." },
+            { "verb": "drop off", "definition": "take a person somewhere in a car and leave them there", "example": "Kamal dropped me off at the train station on his way to work." },
+            { "verb": "pick up", "definition": "go to collect someone (usually in a car)", "example": "Sally picked her friends up outside the movie theater at 9pm." },
+            { "verb": "slow down", "definition": "go more slowly", "example": "You should always slow down when you drive past a school." },
+            { "verb": "speed up", "definition": "go more quickly", "example": "The train left the station slowly, before speeding up as it headed to the coast." },
+            { "verb": "take off", "definition": "begin to fly", "example": "The helicopter took off from the top of the skyscraper." },
+            { "verb": "touch down", "definition": "land", "example": "The plane touched down in Dubai at 9pm in the evening." },
+            { "verb": "pull in(to)", "definition": "stop and park somewhere", "example": "We pulled in at a small roadside cafe, where we could have some breakfast." },
+            { "verb": "pull out (of)", "definition": "move from one road to another", "example": "Marion didn't notice the motorcycle as she pulled out of the junction." },
+            { "verb": "pull up", "definition": "stop driving (often for a short time)", "example": "I pulled up by the train station to let my daughter out." },
+            { "verb": "pull over", "definition": "drive to the side of the road and stop", "example": "I got lost driving to your house. I had to pull over and ask for directions." }
+          ]
+        }
+      ]
+    },
+    ,
+    {
+      "unit_id": 10,
+      "title": "Shopping",
+      "sections": [
+        {
+          "section_id": "10.1",
+          "title": "Shopping",
+          "verbs": [
+            { "verb": "check out (US)", "definition": "pay", "example": "Once Ellie had found a scarf that she liked, she went to check out." },
+            { "verb": "pay for", "definition": "give money for something you are buying", "example": "Ellie used her credit card to pay for the scarf." },
+            { "verb": "buy up", "definition": "buy the entire supply of something", "example": "Peter bought up all the pizzas in the store before his party." },
+            { "verb": "look around", "definition": "visit a place and see what is there", "example": "Aziz had been looking around the store for ages, but couldn't find a shirt he liked." },
+            { "verb": "cross off", "definition": "put a line through a word in a list", "example": "Joshua crossed off each item on the shopping list as he found it." },
+            { "verb": "check off (US)", "definition": "put a check mark next to a word in a list", "example": "Luis put the melon in his basket and checked it off his shopping list." },
+            { "verb": "knock down", "definition": "reduce prices", "example": "Kemal knocked down the price of jewelry by 15% to attract shoppers to his new store." },
+            { "verb": "pick up", "definition": "collect an item that you bought online", "example": "I bought my new laptop online, and went to pick it up at my local store the following day." },
+            { "verb": "bring out", "definition": "put a new product on sale", "example": "My favorite author has just brought out a new novel." },
+            { "verb": "stock up (on)", "definition": "buy a lot of something in case you need it", "example": "Ethan's going camping this weekend, so he's stocking up on insect repellant." },
+            { "verb": "shop around", "definition": "visit several stores to compare products and prices", "example": "Before buying a new car, it's worth shopping around. You might find a bargain." },
+            { "verb": "sell out (of)", "definition": "sell all the available items", "example": "I went to the market to buy some bread, but they had sold out." },
+            { "verb": "take back", "definition": "return a product to the store", "example": "Carla didn't like the sweater she'd bought, so she decided to take it back." },
+            { "verb": "snap up", "definition": "buy something quickly, as soon as it becomes available", "example": "Shoppers had already snapped up all the bargains at the sale by the time I'd arrived." },
+            { "verb": "try on", "definition": "wear an item of clothing to see if it fits", "example": "The fitting rooms are over there if you'd like to try it on." }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": 11,
+      "title": "The Weather",
+      "sections": [
+        {
+          "section_id": "11.1",
+          "title": "The Weather",
+          "verbs": [
+            { "verb": "roll in", "definition": "(about bad weather) approach, come nearer", "example": "As dark storm clouds rolled in from the east, Arthur tried to get home before the rain started." },
+            { "verb": "clear up", "definition": "(about weather) improve, become less cloudy", "example": "It looks like the weather's clearing up. We'll be able to start the game again soon." },
+            { "verb": "brighten up", "definition": "become sunnier, less cloudy", "example": "The weather's been awful, but it's finally starting to brighten up." },
+            { "verb": "bucket down", "definition": "rain very heavily (informal)", "example": "Chris and Mel had to leave the beach when it started bucketing down." },
+            { "verb": "calm down", "definition": "become less stormy or windy", "example": "Once the storm had calmed down, Grace checked her house for damage." },
+            { "verb": "cloud over", "definition": "become more cloudy", "example": "Minutes after Ben had lit the grill, the sky clouded over. He hoped it wouldn't rain." },
+            { "verb": "pour down", "definition": "rain heavily", "example": "Don't go outside yet, Pamela. It's pouring down!" },
+            { "verb": "ease off", "definition": "become less strong or intense", "example": "Oh, thanks Martin. I'll wait until it eases off a bit." },
+            { "verb": "pick up", "definition": "increase, become stronger", "example": "The wind's picking up. It's perfect weather for flying a kite." },
+            { "verb": "blow over", "definition": "(about a storm) move away", "example": "As soon as the storm had blown over, the hikers left the cave and continued walking." },
+            { "verb": "cool down", "definition": "become cooler", "example": "Alice likes to sit on the balcony when the weather cools down in the evening." },
+            { "verb": "let up", "definition": "become less severe", "example": "After days of bad weather, the rain finally started to let up." },
+            { "verb": "freeze over", "definition": "completely freeze", "example": "People go ice-skating when the lake freezes over in the winter." },
+            { "verb": "die down", "definition": "(about a storm or wind) become calmer", "example": "Ella stood in a bus shelter waiting for the wind to die down." },
+            { "verb": "start off", "definition": "begin", "example": "Today started off nicely, so we ate our breakfast on the terrace." },
+            { "verb": "warm up", "definition": "become warmer", "example": "By the end of May, the weather starts to warm up and the tourists start to arrive." }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": 12,
+      "title": "Technology",
+      "sections": [
+        {
+          "section_id": "12.1",
+          "title": "Computer Systems",
+          "verbs": [
+            { "verb": "log in(to)", "definition": "enter an account or system", "example": "To access your account, log in with your username and password." },
+            { "verb": "log out (of)", "definition": "leave an account or system", "example": "Always make sure you log out of your account after using it, so hackers can't steal your data." },
+            { "verb": "boot up (UK)", "definition": "(about a computer) start, turn on", "example": "As soon as Sherelle gets into work, she boots up her computer." },
+            { "verb": "shut down", "definition": "(about a computer) turn off", "example": "You should shut down your computer at night to save electricity." },
+            { "verb": "go down", "definition": "(about a network) stop working", "example": "This is the third time that our system has gone down this morning!" },
+            { "verb": "back up", "definition": "make a copy of something", "example": "I back up all my photos in case my computer breaks. I keep them on an external hard drive." },
+            { "verb": "hack into", "definition": "access a computer or network illegally", "example": "Some criminals hacked into our computer system and stole the new designs." },
+            { "verb": "set up", "definition": "get something ready to use", "example": "Our company hired a technician to set up the new printer." }
+          ]
+        },
+        {
+          "section_id": "12.2",
+          "title": "Using Technology",
+          "verbs": [
+            { "verb": "scroll up (to)", "definition": "move toward the top (of a page)", "example": "Pete scrolled up to the top of the document to find the company's address." },
+            { "verb": "scroll down (to)", "definition": "move toward the bottom (of a page)", "example": "I had to scroll down to the bottom of the page to find the information I was looking for." },
+            { "verb": "zoom in", "definition": "get a closer view of something", "example": "When Amy zoomed in, she noticed the red car in front of the restaurant." },
+            { "verb": "zoom out", "definition": "get a more distant view of something", "example": "Amy zoomed out to look at the whole picture." },
+            { "verb": "type in", "definition": "enter information using a keyboard", "example": "You have to type in your password to access the website." },
+            { "verb": "type out", "definition": "write a piece of text using a keyboard", "example": "I type out my essays because it's quicker than writing them by hand." },
+            { "verb": "click on", "definition": "select something on a computer screen", "example": "If you click on the link at the bottom of the page, you will see the answers." },
+            { "verb": "print out", "definition": "make a paper copy of a text", "example": "I printed out a copy of the contract for the clients to sign." },
+            { "verb": "phase in", "definition": "(about a product) introduce slowly", "example": "The company has started phasing in new computers. They look great!" },
+            { "verb": "phase out", "definition": "(about a product) replace slowly", "example": "I'm so glad that they're phasing these old models out." }
+          ]
+        },
+        {
+          "section_id": "12.3",
+          "title": "New Products",
+          "verbs": [
+            { "verb": "come out", "definition": "(about a product) be released", "example": "The new phone model came out today. There was a long line outside the store." },
+            { "verb": "roll out", "definition": "(about a product) introduce", "example": "My office has started rolling out some new software. People are very confused by it." }
+          ]
+        }
+      ]
+    },
+        {
+      "unit_id": 13,
+      "title": "Crime, the Law, and Politics",
+      "sections": [
+        {
+          "section_id": "13.1",
+          "title": "Crime and the Law",
+          "verbs": [
+            { "verb": "break out (of)", "definition": "escape from a prison", "example": "Gustav broke out of prison by digging a hole under the main wall." },
+            { "verb": "break in(to)", "definition": "enter a building to steal something", "example": "Someone broke into my house and stole all my jewelry." },
+            { "verb": "beat up", "definition": "injure someone by hitting them repeatedly", "example": "Phil had to go to the hospital after somebody beat him up." },
+            { "verb": "hand over", "definition": "return something to its owner", "example": "The police ordered the criminal to hand over the stolen money." },
+            { "verb": "crack down (on)", "definition": "become stricter about existing rules", "example": "The police are cracking down on illegal parking in the city." },
+            { "verb": "stamp out", "definition": "make something bad or unpleasant stop happening", "example": "Janice is leading a campaign to stamp out littering in the park." },
+            { "verb": "cordon off", "definition": "use a barrier to stop people entering an area", "example": "The police cordoned off the area where the crime had taken place." },
+            { "verb": "tip off", "definition": "give someone information anonymously", "example": "Dan tipped off the police about the location of the stolen artworks." },
+            { "verb": "get away", "definition": "escape", "example": "After robbing the store, the thieves got away in a stolen car." },
+            { "verb": "tell from", "definition": "draw a conclusion from evidence", "example": "The police could tell from the tire tracks that the thieves had escaped by car." },
+            { "verb": "track down", "definition": "work to find something or someone", "example": "The detectives tracked down the thief using fingerprints on the door handle." },
+            { "verb": "turn to", "definition": "start doing something different", "example": "My brother turned to crime after he lost his job." },
+            { "verb": "bring in", "definition": "introduce a new law", "example": "The local government has brought in a new law banning cars from entering the city center." },
+            { "verb": "watch out for", "definition": "be aware of potential danger", "example": "Watch out for pickpockets when you're on the train!" },
+            { "verb": "pull over", "definition": "make a driver stop for doing something illegal", "example": "While I was driving home, the traffic police pulled me over for speeding." }
+          ]
+        },
+        {
+          "section_id": "13.2",
+          "title": "Politics",
+          "verbs": [
+            { "verb": "call on", "definition": "ask someone publicly to do something", "example": "Activists are calling on the government to protect the country's forests." },
+            { "verb": "vote on", "definition": "make a decision about a law using a vote", "example": "Senators voted on the new law after a long debate." },
+            { "verb": "call for", "definition": "ask publicly for something to happen", "example": "The protestors are calling for better public transportation in the town." },
+            { "verb": "run for", "definition": "be a candidate for a political position", "example": "One of my old school friends is running for mayor." },
+            { "verb": "vote for", "definition": "support something or someone by using a vote", "example": "I'm definitely going to vote for her." }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": 14,
+      "title": "Money",
+      "sections": [
+        {
+          "section_id": "14.1",
+          "title": "Money",
+          "verbs": [
+            { "verb": "pay up", "definition": "return (usually unwillingly) all the money you have borrowed", "example": "Dan has owed me £200 for six months, but he's finally paid up." },
+            { "verb": "cut back (on)", "definition": "reduce the amount of money you spend", "example": "I've decided to cut back on spending by bringing my own lunch to work." },
+            { "verb": "come into", "definition": "receive suddenly; inherit", "example": "I came into a lot of money when my grandfather died." },
+            { "verb": "cough up", "definition": "give money you owe (reluctantly)", "example": "Sara has finally coughed up the money I lent her last year." },
+            { "verb": "pay back", "definition": "return the money you have borrowed", "example": "I lent Jenny $20 yesterday and she paid me back today." },
+            { "verb": "fork out (for)", "definition": "spend a lot of money on something", "example": "Tommy had to fork out more than $600 to get his car repaired." },
+            { "verb": "chip in", "definition": "each contribute money", "example": "Nura asked Craig's friends to chip in $5 each toward his birthday present." },
+            { "verb": "wipe off", "definition": "reduce in value", "example": "More than a million dollars was wiped off the price of our company this morning." },
+            { "verb": "live off", "definition": "get enough money from somewhere", "example": "Gary lives off the money that he inherited from his aunt. He does not need to work." },
+            { "verb": "live on", "definition": "have a limited amount of money to buy the things you need", "example": "I try to live on half my paycheck every month so I can save the rest." },
+            { "verb": "run into", "definition": "allow a debt or bill to increase to a certain amount", "example": "The cost of the new stadium has already run into the millions." },
+            { "verb": "save up", "definition": "save money (for something in particular)", "example": "Tara and Ali are saving up for a new house. They try to save $300 each month." },
+            { "verb": "add up", "definition": "accumulate, build up", "example": "Try to pay your bills as soon as they arrive. They can soon add up." },
+            { "verb": "pay in(to)", "definition": "put money in a bank", "example": "Patrick went to the bank to pay in some cash." },
+            { "verb": "take out", "definition": "withdraw money from a bank", "example": "Pete went to the ATM to take out some cash." },
+            { "verb": "come to", "definition": "reach a certain amount", "example": "The food was excellent, but we were shocked when the bill came to more than $200." },
+            { "verb": "settle up (with)", "definition": "pay someone what you owe them", "example": "Wayne paid for everyone's lunches yesterday, so we settled up with him today." },
+            { "verb": "run up", "definition": "allow a debt or bill to increase", "example": "Colin has run up some huge debts renovating his house." },
+            { "verb": "pay off", "definition": "finish giving back the money you have borrowed", "example": "He doesn't know how he's going to pay them off." }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": 15,
+      "title": "Time",
+      "sections": [
+        {
+          "section_id": "15.1",
+          "title": "Time",
+          "verbs": [
+            { "verb": "drag on", "definition": "continue for a long time (negative)", "example": "The journey dragged on for hours. The kids were so bored!" },
+            { "verb": "drag out", "definition": "make something last too long (negative)", "example": "Mikhail dragged out his speech for so long that some of the audience fell asleep." },
+            { "verb": "get on (UK)", "definition": "become late (about the time)", "example": "Time's getting on now. Let's hurry home before it gets dark." },
+            { "verb": "go by", "definition": "pass (about time)", "example": "As the years went by, I grew to love Phil's sense of humor." },
+            { "verb": "break up", "definition": "break (a day or period of time) into separate parts", "example": "We take the children to the park every afternoon to break up the day." },
+            { "verb": "creep up (on)", "definition": "happen slowly to someone without them noticing it", "example": "The deadline for the project crept up on us." },
+            { "verb": "fit in", "definition": "make time for something", "example": "The doctor's busy at the moment, but I'll try to fit you in later today." },
+            { "verb": "while away", "definition": "pass the time in a relaxed way", "example": "I enjoy whiling away the hours reading novels and comic books." },
+            { "verb": "run out (of)", "definition": "have no more (time)", "example": "Danny wasn't able to finish the exam because he ran out of time." },
+            { "verb": "take up", "definition": "occupy, use up (someone's time)", "example": "Cleaning the house took up all of Liam's weekend." },
+            { "verb": "time out", "definition": "log someone out of a computer, server, or website because of inactivity", "example": "Your session has timed out. Please log in again." },
+            { "verb": "eat into", "definition": "take up too much (of someone's time)", "example": "Commuting to and from work really eats into my time." },
+            { "verb": "hurry up", "definition": "move or do something more quickly", "example": "Hurry up, Oliver! The train's going to leave soon!" },
+            { "verb": "come around", "definition": "happen again (about a regular event)", "example": "I can't believe how quickly winter's come around again!" },
+            { "verb": "draw out", "definition": "make something last longer than necessary", "example": "Our professor always draws out our lectures by answering lots of questions at the end." },
+            { "verb": "free up", "definition": "make more time available", "example": "Quitting my job at the café has freed up more time for my studies." },
+            { "verb": "wait for", "definition": "stay somewhere or delay something", "example": "Chris was sitting in the café waiting for his girlfriend to arrive." },
+            { "verb": "wait around (for)", "definition": "do nothing until something happens", "example": "When the train was canceled, the passengers had to wait around for the next one." }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": 16,
+      "title": "Future, Memory, and Change",
+      "sections": [
+        {
+          "section_id": "16.1",
+          "title": "Future",
+          "verbs": [
+            { "verb": "lie ahead", "definition": "be in the future", "example": "The building project has just begun. Months of construction work lie ahead before it'll be finished." },
+            { "verb": "look forward to", "definition": "wait for something with excitement", "example": "Elly and George are looking forward to going to the beach later." },
+            { "verb": "lead up to", "definition": "happen in the period before an event", "example": "All the streets were decorated in the weeks leading up to the festival." },
+            { "verb": "come up", "definition": "approach, happen soon", "example": "Colin is working hard because the deadline for his article is coming up." },
+            { "verb": "pan out", "definition": "develop, become successful", "example": "Kira had dreamed of becoming a great actor, but her plans didn't pan out." }
+          ]
+        },
+        {
+          "section_id": "16.2",
+          "title": "Memory",
+          "verbs": [
+            { "verb": "stir up", "definition": "make someone think about the past", "example": "Being at the beach stirs up memories of vacations with my grandmother." },
+            { "verb": "look back (on)", "definition": "remember, think about the past", "example": "Roland looks back on his college days with pleasure." },
+            { "verb": "bring back", "definition": "make someone think about the past", "example": "Finding my old toys brought back happy memories of my childhood." },
+            { "verb": "flood back", "definition": "suddenly come into someone's mind (about memories or emotions)", "example": "When I recognized Roshan, memories of our days in Delhi came flooding back." },
+            { "verb": "think back (to)", "definition": "think about an event in the past", "example": "I like to listen to music and think back to my days as a musician in Paris." },
+            { "verb": "date back to", "definition": "come into being at a particular time in the past", "example": "Many of the buildings in my city date back to the 19th century." },
+            { "verb": "remind of", "definition": "make someone remember a person, place, or event from the past", "example": "Peter reminds me of you when you were a little boy." },
+            { "verb": "take back (to)", "definition": "make someone think about the past", "example": "This dress takes me back to my childhood in the 1960s." }
+          ]
+        },
+        {
+          "section_id": "16.3",
+          "title": "Change and Rescheduling",
+          "verbs": [
+            { "verb": "turn into", "definition": "become, transform into", "example": "The house was turned into a convenience store in the 1980s." },
+            { "verb": "turn back into", "definition": "return to its original form", "example": "We are planning to turn it back into a house and live there." }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": 17,
+      "title": "Making and Canceling Plans",
+      "sections": [
+        {
+          "section_id": "17.1",
+          "title": "Making Plans",
+          "verbs": [
+            { "verb": "end up", "definition": "do something different to what you had originally planned", "example": "Kwang had been planning to study medicine, but ended up studying French." },
+            { "verb": "go through with", "definition": "do something you have planned to do (after some thought or discussion)", "example": "My dad wanted to buy a motorcycle for ages, but I never expected him to go through with it." },
+            { "verb": "hammer out", "definition": "reach an agreement after much discussion", "example": "The negotiating teams stayed up until after midnight hammering out a new treaty." },
+            { "verb": "pin down", "definition": "decide the details about something", "example": "We want to get married in summer, but we haven't pinned down a location yet." },
+            { "verb": "throw out", "definition": "reject a suggestion or idea", "example": "I asked Sabrina if she wanted to go camping, but she threw out the idea." },
+            { "verb": "throw together", "definition": "do something without preparation", "example": "Giovanni forgot about the art project, but he managed to throw something together." }
+          ]
+        },
+        {
+          "section_id": "17.2",
+          "title": "Canceling Plans",
+          "verbs": [
+            { "verb": "chicken out", "definition": "decide not to do something you had planned to do because you are afraid (informal)", "example": "Dexter was going to ask Becky out on a date, but he chickened out." },
+            { "verb": "back out", "definition": "not do something you had agreed to do", "example": "Ed had promised to do a bungee jump with me, but backed out at the last minute." },
+            { "verb": "wriggle out of", "definition": "avoid doing something you should do (informal)", "example": "Adi always manages to wriggle out of helping with the cleaning." },
+            { "verb": "plan ahead", "definition": "make plans before an event happens", "example": "You should plan ahead before setting off on a long car journey." },
+            { "verb": "allow for", "definition": "take something into consideration before making a plan", "example": "Allow for traffic delays when estimating how long it'll take." },
+            { "verb": "think ahead", "definition": "think about the future and plan for it", "example": "You need to think ahead and save some money for the future." },
+            { "verb": "firm up", "definition": "make something more definite", "example": "The two directors had several meetings to firm up the details of the new contract." },
+            { "verb": "get around to", "definition": "find the time to do something", "example": "We've been meaning to get a new kitchen for years, but we never get around to it." },
+            { "verb": "look ahead", "definition": "think about what might happen in the future", "example": "Look ahead and picture what you want to be doing in five years' time." },
+            { "verb": "weasel out of", "definition": "avoid doing something you had agreed to do in a sneaky way (informal)", "example": "The store weaseled out of giving us a refund by claiming we had broken the vase." },
+            { "verb": "go back on", "definition": "fail to keep a promise or agreement", "example": "Seb said he'd help me paint the house, but he went back on his promise." },
+            { "verb": "get out of", "definition": "avoid doing something you had agreed to do", "example": "Cleo didn't want to go out, so she pretended to be sick to get out of it." }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": 18,
+      "title": "Hearing, Smell, Taste, and Sight",
+      "sections": [
+        {
+          "section_id": "18.1",
+          "title": "Hearing",
+          "verbs": [
+            { "verb": "listen up", "definition": "pay attention", "example": "Listen up! You're going to fail your exam unless you start working a bit harder." },
+            { "verb": "listen in (on)", "definition": "secretly listen to someone", "example": "Andy hid behind the curtain so he could listen in on Carmen and Simon's conversation." },
+            { "verb": "listen to", "definition": "pay attention to someone talking or something making a sound", "example": "Dayita listened to the radio while she ate her breakfast." },
+            { "verb": "listen out for", "definition": "listen attentively to hear a noise you are expecting", "example": "Marion asked her son to listen out for the doorbell while she was in the garden." },
+            { "verb": "hear about", "definition": "receive information about something", "example": "Have you heard about the new gym in town? It's supposed to be great." },
+            { "verb": "hear out", "definition": "listen to someone without interrupting", "example": "Please hear me out! I don't want to be a lawyer. I want to be an actor!" }
+          ]
+        },
+        {
+          "section_id": "18.2",
+          "title": "Smell and Taste",
+          "verbs": [
+            { "verb": "smell of", "definition": "have the smell of something", "example": "Alex's cookies smelled of cinnamon. I asked to try one." },
+            { "verb": "stink out", "definition": "cause somewhere to smell unpleasant (informal)", "example": "Whatever Pablo has cooked is stinking the whole house out." },
+            { "verb": "sniff around", "definition": "try to find information", "example": "That journalist's been sniffing around again trying to find out what's going on." },
+            { "verb": "taste of", "definition": "have the flavor of something", "example": "This soup is delicious! It tastes of tomato and basil." }
+          ]
+        },
+        {
+          "section_id": "18.3",
+          "title": "Sight",
+          "verbs": [
+            { "verb": "look for", "definition": "search for something", "example": "Robert has been looking for his glasses all afternoon. He can't find them anywhere." },
+            { "verb": "look at", "definition": "examine something", "example": "The geologist looked at each of the rocks. They were unlike anything he'd seen before." },
+            { "verb": "look on", "definition": "watch something without taking part", "example": "We all looked on in silence as the magician seemed to cut the person in half." },
+            { "verb": "look out for", "definition": "pay attention to notice something", "example": "While you're in the national park, look out for bald eagles near the rivers and lakes." },
+            { "verb": "look over", "definition": "raise yourself to see past an obstacle", "example": "The children looked over the wall, trying to see where the ball had landed." },
+            { "verb": "look away", "definition": "turn your eyes away from something", "example": "The scary scene in the movie made everyone look away." },
+            { "verb": "look into", "definition": "look at a hole, room, or hollow object to see what is inside", "example": "Sarah and Dionne looked into the well. There was no sign of the bottom." },
+            { "verb": "look through", "definition": "look at one side of something to see what is on the other side", "example": "Marcus looked through his telescope to see the moon." },
+            { "verb": "look out over", "definition": "have a view of", "example": "Vineeta's summer house has the perfect location. It looks out over a lake." },
+            { "verb": "spy on", "definition": "secretly watch someone", "example": "Fiona spied on her colleagues to steal their ideas." }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": 19,
+      "title": "Movement and Progress",
+      "sections": [
+        {
+          "section_id": "19.1",
+          "title": "Movement and Progress",
+          "verbs": [
+            { "verb": "fall behind", "definition": "move more slowly than the people around you", "example": "Martin was exhausted, and began to fall behind the other runners." },
+            { "verb": "turn away", "definition": "turn your head or body so that you are no longer facing something", "example": "Tanya turned away as the nurse gave her the injection." },
+            { "verb": "press on", "definition": "continue despite difficulties", "example": "The rain made it hard for the hikers to keep going, but they pressed on." },
+            { "verb": "move along", "definition": "leave a certain place (usually said by someone in authority)", "example": "The security guards told us to stop taking photos of the building and move along." },
+            { "verb": "go through", "definition": "move through a room or space", "example": "As the train went through the mountain range, Ted took some photographs." },
+            { "verb": "stand up", "definition": "rise from a seated position", "example": "There was a loud knock at the door. Hassan stood up and went to answer it." },
+            { "verb": "come up to", "definition": "approach someone, come close to someone", "example": "The saleswoman came up to Fabio and asked if he needed any help." },
+            { "verb": "come down (from)", "definition": "move toward the ground or bottom of something", "example": "As we came down from the summit, the weather became much worse." },
+            { "verb": "climb up", "definition": "move toward the top of something (often using your arms as well as legs)", "example": "The monkey climbed up the tree with Kazuo's camera." },
+            { "verb": "climb down", "definition": "move toward the bottom of something (often using your arms as well as legs)", "example": "Kazuo got the monkey to climb down by offering it a banana." },
+            { "verb": "double back", "definition": "turn around and go in the direction you just came from", "example": "Terry doubled back when he realized he'd walked past the entrance to the gallery." },
+            { "verb": "turn around", "definition": "turn yourself so that you face the opposite direction", "example": "When I heard someone calling my name, I turned around." },
+            { "verb": "lift up", "definition": "raise someone or something", "example": "Clive lifted his daughter up so that she could see the deer." },
+            { "verb": "drop back", "definition": "start to move more slowly than others", "example": "Doug dropped back to help one of the other hikers, who had injured himself." },
+            { "verb": "get down (from)", "definition": "move to the ground or a lower position", "example": "Helen told her son to get down from the garden wall." }
+          ]
+        },
+        {
+          "section_id": "19.2",
+          "title": "Phrasal Verbs with \"Walk\"",
+          "verbs": [
+            { "verb": "walk around", "definition": "move around a place on foot", "example": "The visitors walked around the palace gardens." },
+            { "verb": "walk in(to)", "definition": "enter a room, building, or enclosed space on foot", "example": "The explorers walked into the cave." },
+            { "verb": "walk over", "definition": "move over an object on foot", "example": "A line of tourists slowly walked over the ancient bridge." },
+            { "verb": "walk off", "definition": "leave on foot (often without an explanation)", "example": "While we were chatting, Mani walked off without saying where he was going." },
+            { "verb": "walk out (of)", "definition": "leave a room, building, or enclosed space on foot", "example": "Janine grabbed her coat and walked out of the room." }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": 20,
+      "title": "Studying, Research, and Presentations",
+      "sections": [
+        {
+          "section_id": "20.1",
+          "title": "Studying and Research",
+          "verbs": [
+            { "verb": "brush up on", "definition": "practice, revise", "example": "I'm moving to Tokyo for a year. I need to brush up on my Japanese." },
+            { "verb": "work out", "definition": "solve a problem", "example": "Nadia stayed up all night trying to work out the answer to the equation." },
+            { "verb": "swot up on (UK)", "definition": "(informal) study a subject", "example": "The library was full of students swotting up on English grammar." },
+            { "verb": "start over (US)", "definition": "start something again", "example": "I kept making mistakes trying to answer the question, so decided to start over." },
+            { "verb": "work through", "definition": "deal with a problem carefully and methodically", "example": "Fiona worked through the problems in her code to fix the issues." },
+            { "verb": "dive in(to)", "definition": "start doing something with enthusiasm", "example": "Sam has dived into his new project. He spent all weekend working on it." },
+            { "verb": "focus on", "definition": "give attention to", "example": "Patsy's research focuses on space travel." },
+            { "verb": "look into", "definition": "investigate, research, or find out about something", "example": "She's looking into how astronauts might travel to Mars one day." },
+            { "verb": "look up", "definition": "find information online or in a reference book", "example": "Hi, Arjun. Do you know what \"burdensome\" means? No, I don't. You'll have to look it up in a dictionary." },
+            { "verb": "count toward", "definition": "contribute toward", "example": "The practical assessment and the written exam both count toward your final grade." },
+            { "verb": "fall behind", "definition": "not keep up with", "example": "Emma was sick for most of the spring. She has fallen behind the other students in her year." },
+            { "verb": "cram in (UK)", "definition": "fit a lot of something into a small space or a short period of time", "example": "Bill is trying to cram in as much studying as possible before the exam." },
+            { "verb": "keep up with", "definition": "improve at the same speed as someone", "example": "Even though Leo is the youngest in his class, he manages to keep up with the other children." },
+            { "verb": "mark down", "definition": "give someone a lower grade", "example": "Please take care writing your presentation. You'll be marked down for incorrect spelling." }
+          ]
+        },
+        {
+          "section_id": "20.2",
+          "title": "Making a Presentation",
+          "verbs": [
+            { "verb": "lay out", "definition": "present or explain in a clear way", "example": "At the start of your presentation, lay out the main points you are going to discuss." },
+            { "verb": "move on (to)", "definition": "proceed to the next point", "example": "After introducing your topic, you should then move on to presenting each of your arguments." },
+            { "verb": "sum up", "definition": "finish by summarizing", "example": "At the end of your presentation, you should finish by summing up each of your conclusions." }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": 21,
+      "title": "School and Behavior",
+      "sections": [
+        {
+          "section_id": "21.1",
+          "title": "School",
+          "verbs": [
+            { "verb": "drop out", "definition": "leave school or university without finishing your studies", "example": "Ola dropped out of high school without any qualifications, but she went on to become a successful businesswoman." },
+            { "verb": "hand in (to)", "definition": "give a piece of work to a teacher, give something to someone in authority", "example": "Miguel handed in his assignment five minutes before the deadline." },
+            { "verb": "hand out (to)", "definition": "give something to each member of a group, distribute", "example": "The teacher handed out the worksheet to each member of the class." },
+            { "verb": "wipe off", "definition": "remove something (with a cloth)", "example": "The teacher wiped the notes off the board before Ed had finished copying them." },
+            { "verb": "break up (UK)", "definition": "close for the holidays", "example": "Schools break up in July in the UK. There is a six-week summer holiday." },
+            { "verb": "work on", "definition": "spend time or put effort into something", "example": "Ramu's working on a new art project. It's a huge painting of New York." },
+            { "verb": "pack up", "definition": "gather your things and put them in a bag or box", "example": "When the class finished, Arun packed up his things and got ready to leave." },
+            { "verb": "take out", "definition": "remove something (from a bag)", "example": "Good morning class. Please take out your books." },
+            { "verb": "turn to", "definition": "open a book at a specific page", "example": "Now turn to page 25 and complete the exercises." }
+          ]
+        },
+        {
+          "section_id": "21.2",
+          "title": "Bad Behavior",
+          "verbs": [
+            { "verb": "not stand for", "definition": "not tolerate, not allow someone to do something", "example": "I will not stand for laziness. It's time you started working harder." },
+            { "verb": "goof off (US)", "definition": "waste time, avoid doing work", "example": "You've spent too much time goofing off this semester, Jesse." },
+            { "verb": "play up (UK)", "definition": "be naughty, misbehave", "example": "The kids have been playing up all morning." },
+            { "verb": "fool around", "definition": "behave in a silly way", "example": "Erin is so naughty. She's always fooling around in class instead of paying attention." },
+            { "verb": "carry on", "definition": "continue (doing something)", "example": "Despite the teacher's warnings, the children carried on misbehaving." },
+            { "verb": "mess around", "definition": "misbehave, do something other than what you should be doing", "example": "The teacher told his students to stop messing around, and to do their work." },
+            { "verb": "get away with", "definition": "do something wrong without being punished for it", "example": "Mateo and Juanita are very naughty, but Martina lets them get away with it." },
+            { "verb": "answer back", "definition": "respond rudely (usually to a teacher or parent)", "example": "Rosie is very rude to her teachers. She's always answering back." },
+            { "verb": "tell off", "definition": "reprimand someone when they have done them something wrong", "example": "Zosia told the children off when she saw the terrible mess they had made." },
+            { "verb": "let off (with)", "definition": "not punish someone, or give them a very light punishment", "example": "Marco was furious about the broken window, but he let Gio and Carmen off with a warning." }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": 22,
+      "title": "Work",
+      "sections": [
+        {
+          "section_id": "22.1",
+          "title": "Starting and Finishing",
+          "verbs": [
+            { "verb": "clock in", "definition": "start work", "example": "I clock in at 9am every morning." },
+            { "verb": "clock off", "definition": "finish work", "example": "I clock off at 5pm every afternoon." },
+            { "verb": "soldier on", "definition": "continue trying to achieve something despite difficulties", "example": "Despite the storm, the engineers soldiered on and installed the new phone line." },
+            { "verb": "take off", "definition": "take a break from work for a certain amount of time", "example": "Debbie took the afternoon off so she could go to the dentist." },
+            { "verb": "call in", "definition": "telephone your workplace", "example": "I'm not feeling very well today, so I'm going to call in sick." },
+            { "verb": "get off", "definition": "finish work", "example": "Steve gets off work early on Fridays so he can collect his children from school." },
+            { "verb": "call off", "definition": "cancel an event", "example": "Our manager was busy, so she had to call off our meeting." },
+            { "verb": "meet up (with)", "definition": "get together with", "example": "Angela meets up with her colleagues once a week to discuss all their new ideas." },
+            { "verb": "talk over", "definition": "discuss", "example": "Let's talk over all your designs and make a decision." },
+            { "verb": "pencil in", "definition": "agree a time or date that might be changed later", "example": "I might be busy tomorrow, but let's pencil in a meeting anyway." },
+            { "verb": "have off", "definition": "have a break from work for a certain amount of time", "example": "I've been very busy lately, but I have next week off work." }
+          ]
+        },
+        {
+          "section_id": "22.3",
+          "title": "Working",
+          "verbs": [
+            { "verb": "plug away (at)", "definition": "work hard to achieve something difficult", "example": "Fiona was struggling to finalize the company's accounts, but she kept plugging away at them." },
+            { "verb": "pile up", "definition": "increase to an unmanageable amount", "example": "The applications for the new manager position are piling up. I'd better start looking through them." },
+            { "verb": "slog away (at)", "definition": "work very hard for a long time", "example": "Jennie's been slogging away trying to finish writing her presentation." },
+            { "verb": "chase up", "definition": "ask someone for something (again)", "example": "Kamal's manager chased up the report, which was already a week late." },
+            { "verb": "slack off", "definition": "avoid hard work", "example": "Ted used to be very proactive, but he's been slacking off lately." },
+            { "verb": "carry out", "definition": "complete a task", "example": "Ola is carrying out a survey about worker satisfaction." },
+            { "verb": "catch up on", "definition": "do work that you did not have time to do earlier", "example": "Gio has been on vacation for two weeks, so he has a lot of work to catch up on." },
+            { "verb": "knuckle down", "definition": "start to work very hard", "example": "I've got lots to do! I need to knuckle down and get it finished." }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": 23,
+      "title": "Careers",
+      "sections": [
+        {
+          "section_id": "23.1",
+          "title": "Careers",
+          "verbs": [
+            { "verb": "stand down", "definition": "leave an important job or position", "example": "After 35 years running his own company, Robert is standing down and retiring." },
+            { "verb": "take over", "definition": "take responsibility for a company or role", "example": "His daughter Jess is taking over the family business." },
+            { "verb": "draw on", "definition": "make use of your experience", "example": "Katie has been a therapist for 20 years, so she has a lot of experience to draw on." },
+            { "verb": "get into", "definition": "become involved in something, start a career", "example": "Olivia is trying to get into journalism. She's just started an internship at a radio station." },
+            { "verb": "fall back on", "definition": "use skills that you already have (when things go wrong)", "example": "If I ever lose my job at the bank, I'll always have my cooking skills to fall back on." },
+            { "verb": "set out", "definition": "begin doing something with a specific aim in mind", "example": "When he left school, Paul set out to become a millionaire by the time he reached 30." },
+            { "verb": "go back to", "definition": "return to a job after a break", "example": "I went back to my job as a mechanic when my children started school." },
+            { "verb": "apply for", "definition": "ask to be considered for a job", "example": "Chad just finished his degree and is applying for jobs in the media." },
+            { "verb": "get ahead (at)", "definition": "improve your position at work", "example": "Carolina went on a training course to help her get ahead at work." },
+            { "verb": "wind down", "definition": "gradually bring to an end", "example": "Joanna is winding down her business to take a job managing a large hotel." },
+            { "verb": "branch out (into)", "definition": "start doing something different (but related)", "example": "Marvin has become such a successful tennis player that he's branching out into coaching younger players." },
+            { "verb": "walk into", "definition": "find a job easily", "example": "Thanks to his impressive portfolio, Elliot walked into a job with a leading fashion designer." },
+            { "verb": "burn out", "definition": "become exhausted by working too much", "example": "Ken's going to burn himself out if he keeps working 16 hours a day." },
+            { "verb": "head up", "definition": "lead, be in charge of a department or organization", "example": "We have chosen Diana to head up our new sales department." },
+            { "verb": "put off", "definition": "make someone dislike a person or thing", "example": "I thought I wanted to be a lawyer, but the workload put me off." },
+            { "verb": "throw (oneself) into", "definition": "begin doing something with great enthusiasm", "example": "Femi has thrown himself into his new job at the hair salon. He loves it!" },
+            { "verb": "stick with", "definition": "continue despite difficulties", "example": "Even though he doesn't like his job, Tom is sticking with it until he gets promoted." },
+            { "verb": "go into", "definition": "start a career in something", "example": "Naina is planning to go into teaching when she finishes university." },
+            { "verb": "cash in on", "definition": "take advantage of a situation to make money", "example": "Brian has started selling umbrellas in his store to cash in on the recent terrible weather." }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": 24,
+      "title": "Business",
+      "sections": [
+        {
+          "section_id": "24.1",
+          "title": "Business",
+          "verbs": [
+            { "verb": "enter into", "definition": "begin a (business) relationship", "example": "We are proud to announce that our two banks are entering into a partnership." },
+            { "verb": "drum up", "definition": "increase support for something", "example": "Katie's trying to drum up interest in her café by offering free samples of her cakes." },
+            { "verb": "turn over", "definition": "(about a business) earn an amount of money over a certain period of time", "example": "Marco's garden center is doing well. It turns over almost $250,000 a year." },
+            { "verb": "profit from", "definition": "gain a benefit from a situation", "example": "Alan's sportswear company profited from the cold weather earlier this year." },
+            { "verb": "come to", "definition": "arrive at, reach (a decision)", "example": "The board has finally come to a decision about the new logo for the company." },
+            { "verb": "start up", "definition": "open a business", "example": "Chrissie has just started up her own hair salon. It opened last week." },
+            { "verb": "go under", "definition": "go bankrupt", "example": "Mario's gas station has just gone under. It had been struggling for a long time." },
+            { "verb": "deal in", "definition": "buy and sell goods", "example": "Ellie's company deals in antiques. She sells pieces from all over the world." },
+            { "verb": "sell up", "definition": "sell a business", "example": "Elsa's tired of running her own business. She's decided to sell up." },
+            { "verb": "write off", "definition": "cancel a debt", "example": "The bank agreed to write off the debt, saving Ethan's company from bankruptcy." },
+            { "verb": "close down", "definition": "close permanently", "example": "All of the banks in our town have closed down. Everyone's using online banking." },
+            { "verb": "fall through", "definition": "fail to happen", "example": "My plans to expand my business fell through when the bank refused to lend me enough money." },
+            { "verb": "buy out", "definition": "buy someone's share of a business", "example": "Gemma has bought out all the other partners. She now owns the whole company." },
+            { "verb": "farm out (to)", "definition": "give some of your work to people who do not work for your company", "example": "Rita's company sells furniture, but farms out all of its manufacturing to other people." },
+            { "verb": "take on", "definition": "employ", "example": "Our business is growing, so we are taking on more staff." },
+            { "verb": "open up", "definition": "open for the first time", "example": "A new bookstore is opening up in our neighborhood." },
+            { "verb": "lay off", "definition": "stop employing someone", "example": "The company is facing difficulties. We may need to lay off some staff." },
+            { "verb": "sign off on", "definition": "give official approval to something", "example": "We need the CEO to sign off on this important decision." },
+            { "verb": "sell off", "definition": "sell something quickly at a reduced price", "example": "Al's store is selling off a lot of its stock. There are some great bargains there." },
+            { "verb": "draw up", "definition": "write a contract", "example": "Could you draw up a contract for our new clients?" }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": 25,
+      "title": "Numbers, Amounts, and Calculations",
+      "sections": [
+        {
+          "section_id": "25.1",
+          "title": "Numbers and Amounts",
+          "verbs": [
+            { "verb": "stack up", "definition": "increase in number or amount", "example": "Katie's bills have been stacking up. She's in a lot of debt now." },
+            { "verb": "round down (to)", "definition": "reduce a number to a nearby number (usually ending in zero)", "example": "The price for our cruise was going to be $1,207, but the travel agent agreed to round it down to $1,200." },
+            { "verb": "count down", "definition": "count the amount of time before something happens", "example": "The kids are counting down the days before we go camping." },
+            { "verb": "bottom out", "definition": "stop getting worse, reach its lowest point", "example": "The company's share price has been falling, but it's finally starting to bottom out." },
+            { "verb": "average out (at)", "definition": "result in an average of", "example": "The temperature varies a bit in the summer, but it averages out at about 25°C." },
+            { "verb": "round up (to)", "definition": "increase a number to a nearby number (usually ending in zero)", "example": "We estimated the cost of the project to be £14,900, but rounded it up to the nearest thousand." },
+            { "verb": "count out", "definition": "count things one by one and place them somewhere", "example": "Alfie counted out the money he owed me and placed it on the table." },
+            { "verb": "even out", "definition": "become level, contain fewer differences or irregularities", "example": "After falling dramatically in May, the price of gold has evened out over the past two months." },
+            { "verb": "shoot up", "definition": "increase dramatically", "example": "The number of people buying clothes online shot up last year." },
+            { "verb": "level out", "definition": "become level, stop increasing or decreasing", "example": "Over the last six months, it has started to level out." },
+            { "verb": "divide up (into)", "definition": "separate into groups, pieces, or sections", "example": "The coach divided the children up into two equal teams." },
+            { "verb": "add up", "definition": "calculate the total", "example": "If you want to set yourself a budget, start by adding up all your monthly expenses." },
+            { "verb": "mount up", "definition": "gradually increase in number or amount", "example": "Renovating a house is very expensive. The cost soon mounts up." },
+            { "verb": "count up", "definition": "add together things or people belonging to a group", "example": "Shreya counted up the number of people wanting coffee and went to make some." },
+            { "verb": "add on", "definition": "attach an extra thing or amount to something", "example": "When Georgia was paying her check, she added on a 20% tip." }
+          ]
+        },
+        {
+          "section_id": "25.2",
+          "title": "Calculations",
+          "verbs": [
+            { "verb": "add together", "definition": "calculate the total of two or more numbers", "example": "If you add 20 and 4 together, you get 24." },
+            { "verb": "take away (from)", "definition": "subtract", "example": "The teacher asked what's left when you take 4 away from 20." },
+            { "verb": "multiply by", "definition": "add a number to itself a certain number of times", "example": "For the next question, the class had to multiply 20 by 4." },
+            { "verb": "divide by", "definition": "find how many times a larger number contains a smaller number", "example": "Does anyone know what 20 divided by 4 equals?" }
+          ]
+        }
+      ]
+    },
+        {
+      "unit_id": 26,
+      "title": "Success, Failure, and Causes",
+      "sections": [
+        {
+          "section_id": "26.1",
+          "title": "Success",
+          "verbs": [
+            { "verb": "build on", "definition": "use your knowledge, experience, or success as a way to become more successful", "example": "Nia built on her experience working at a hotel to set up her own guesthouse." },
+            { "verb": "muddle through", "definition": "manage to do something despite having no plan or understanding of it", "example": "Clive muddled through the interview without any preparation. He was shocked when he got the job." },
+            { "verb": "work out", "definition": "have a positive outcome", "example": "When I didn't get into college, I started my own successful business. Everything worked out in the end!" },
+            { "verb": "win out", "definition": "be successful after difficulty", "example": "I know these results are disappointing, but keep working and you will win out eventually." },
+            { "verb": "pay off", "definition": "benefit after investing time or money", "example": "Anita's hard work has paid off. The dress looks beautiful." },
+            { "verb": "carry off", "definition": "unexpectedly succeed at something", "example": "I never imagined James would be so great playing Hamlet, but he really carried it off." },
+            { "verb": "pull off", "definition": "be successful (despite difficulties)", "example": "The Scottish team pulled off an amazing victory, scoring two goals in the last four minutes." },
+            { "verb": "come off", "definition": "be successful (about a plan)", "example": "Maria's dream of becoming famous finally came off when her song became a huge summer hit." },
+            { "verb": "scrape by", "definition": "only just succeed in doing something", "example": "Marco did not study at all for the English exam but somehow scraped by." },
+            { "verb": "sail through", "definition": "deal with something very easily", "example": "Kwase sailed through his driving test. He didn't make any mistakes." }
+          ]
+        },
+        {
+          "section_id": "26.2",
+          "title": "Failure",
+          "verbs": [
+            { "verb": "give up", "definition": "stop trying to achieve something", "example": "Marcello tried to fix the washing machine, but he has given up." },
+            { "verb": "lose out (to)", "definition": "be beaten by something else", "example": "Many smaller stores have lost out since the supermarket opened in town." },
+            { "verb": "run into", "definition": "begin to experience something negative", "example": "Simon's campaign ran into difficulties when he was accused of lying." },
+            { "verb": "screw up", "definition": "make a mess of something (informal)", "example": "The decorators have screwed up this job! We won't use them again." }
+          ]
+        },
+        {
+          "section_id": "26.3",
+          "title": "Causes of Success and Failure",
+          "verbs": [
+            { "verb": "ride on", "definition": "depend on", "example": "The future success of our company rides on us winning this contract." },
+            { "verb": "put down to", "definition": "attribute events to a particular reason", "example": "When accepting the award, Carla put her success down to hard work." },
+            { "verb": "contribute to", "definition": "help to cause something", "example": "Having supportive parents really contributed to my success." },
+            { "verb": "amount to", "definition": "develop into (often used in the negative)", "example": "My teachers told me I'd never amount to anything, but now I'm a lawyer." },
+            { "verb": "get in on", "definition": "become involved in a successful activity", "example": "When Al saw how many people were making money by selling things online, he decided to get in on it." }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": 27,
+      "title": "Lights, Locks, and Moving",
+      "sections": [
+        {
+          "section_id": "27.1",
+          "title": "Locks",
+          "verbs": [
+            { "verb": "lock out", "definition": "stop someone from entering by locking the door", "example": "When Ben got home, he realized that he'd forgotten his keys and was locked out." },
+            { "verb": "lock away", "definition": "put something away and lock the door", "example": "Clive makes sure that he locks his tools away in his shed." },
+            { "verb": "lock in", "definition": "stop someone from leaving by locking the door", "example": "The janitor didn't notice Alex when he locked the doors. He accidentally locked him in." }
+          ]
+        },
+        {
+          "section_id": "27.2",
+          "title": "Moving",
+          "verbs": [
+            { "verb": "move out (of)", "definition": "stop living in your old home and move somewhere else", "example": "We finally sold our house. We're moving out today." },
+            { "verb": "move in(to)", "definition": "start living in a new home", "example": "Pete's new neighbors moved in last weekend." },
+            { "verb": "move away", "definition": "go and live in a different area", "example": "My parents have decided to move away and live in the country." },
+            { "verb": "settle in(to)", "definition": "get used to living in a new place", "example": "Jools has settled into his new apartment very quickly." }
+          ]
+        },
+        {
+          "section_id": "27.3",
+          "title": "Appliances and Household Items",
+          "verbs": [
+            { "verb": "leave on", "definition": "leave turned on", "example": "Did you leave the lights on when you left the house?" },
+            { "verb": "go out", "definition": "(lights) stop shining", "example": "The lights in the house went out, so Clara lit some candles." },
+            { "verb": "put on", "definition": "make a piece of equipment start working", "example": "It was a very hot day, so Les put the fan on." },
+            { "verb": "blow out", "definition": "make a candle stop burning by blowing air at it", "example": "Andy blew the candles out before going to bed." },
+            { "verb": "turn on", "definition": "make something start working", "example": "If you're bored, turn on the television. There's a good movie on tonight." },
+            { "verb": "turn off", "definition": "make something stop working", "example": "Make sure you turn the television off before going to bed." },
+            { "verb": "turn up", "definition": "increase the volume (or power) of a piece of equipment", "example": "When Elsa heard her favorite song on the radio, she turned up the volume and began dancing." },
+            { "verb": "turn down", "definition": "decrease the volume (or power) of a piece of equipment", "example": "Paula's neighbor asked her to turn her stereo down because it was too loud." },
+            { "verb": "plug in(to)", "definition": "connect an electrical appliance to the electricity supply", "example": "Cassie thought her computer was broken until she realized that she hadn't plugged it in." },
+            { "verb": "come on", "definition": "start working (automatically)", "example": "The street lights come on at dusk, when the sun sets." },
+            { "verb": "go off", "definition": "stop working (automatically)", "example": "The street lights go off at dawn, when the sun rises." }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": 28,
+      "title": "Cleaning and Gardening",
+      "sections": [
+        {
+          "section_id": "28.1",
+          "title": "Cleaning",
+          "verbs": [
+            { "verb": "clear away", "definition": "make tidy again", "example": "Elliot's dad told him to clear away all his toys." },
+            { "verb": "tidy up", "definition": "put things back in their proper places", "example": "We need to tidy up before the guests arrive." },
+            { "verb": "mop up", "definition": "clean liquid off a surface with a mop", "example": "Jason told me to mop up the water that I'd spilled on the floor." },
+            { "verb": "pick up", "definition": "take something off the floor", "example": "This room is a mess! Pick up all these clothes!" },
+            { "verb": "throw away", "definition": "discard, put in the trash", "example": "If the chicken smells bad, you should throw it away." },
+            { "verb": "wash up", "definition": "clean the dishes", "example": "When Ella cooks dinner, her boyfriend washes up the dishes." },
+            { "verb": "put back", "definition": "return an object to its original place", "example": "After painting the living room, Paul and Sally put all the furniture back." },
+            { "verb": "hang out", "definition": "hang washing on a clothesline to dry", "example": "It was a sunny morning, so Ian hung his washing out to dry." },
+            { "verb": "clean up", "definition": "make tidy again", "example": "There was a lot of mess to clean up after the party." },
+            { "verb": "pitch in", "definition": "join in, help others to do something", "example": "We all pitched in to get it finished more quickly." },
+            { "verb": "clear out", "definition": "remove all the unnecessary things from a room or building", "example": "We cleared out the garage this weekend. There was so much junk in there!" },
+            { "verb": "wipe down", "definition": "clean a surface with a cloth", "example": "I wipe down the table each evening after we've eaten." },
+            { "verb": "take out", "definition": "move something outside", "example": "On Tuesday mornings, I take the trash out." },
+            { "verb": "put up", "definition": "hang something on a wall", "example": "Nousha's room looked much nicer after she'd put up some pictures." },
+            { "verb": "sweep up", "definition": "clean the ground with a broom", "example": "Karl swept up the trash from the party and put it into bags." }
+          ]
+        },
+        {
+          "section_id": "28.2",
+          "title": "Gardening",
+          "verbs": [
+            { "verb": "chop down", "definition": "make a tree fall to the ground", "example": "The tree in our backyard died, so we had to chop it down." },
+            { "verb": "cut back", "definition": "remove some branches from a tree, bush, or hedge", "example": "The hedge in Doug's yard was getting too big, so he cut it back." },
+            { "verb": "dig up", "definition": "remove a plant from the ground by digging around and under it", "example": "I'm digging up the lavender bushes so I can move them to a different part of the garden." },
+            { "verb": "pull up", "definition": "remove a plant from the ground by pulling", "example": "Paul spent the whole afternoon pulling up weeds. His yard was full of them." },
+            { "verb": "put away", "definition": "return an object to its proper place", "example": "After finishing the gardening, Scott put his tools away." }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": 29,
+      "title": "Cooking",
+      "sections": [
+        {
+          "section_id": "29.1",
+          "title": "Cooking",
+          "verbs": [
+            { "verb": "break up", "definition": "separate something into smaller pieces", "example": "Patrick broke up the chocolate before adding it to the cake mixture." },
+            { "verb": "cool down", "definition": "become cooler", "example": "Nadiya left the cherry pie on the windowsill to cool down." },
+            { "verb": "measure out", "definition": "weigh or take a certain amount", "example": "I always measure out all of my ingredients before trying a new recipe." },
+            { "verb": "mix in", "definition": "combine (with other ingredients)", "example": "You should mix in the eggs and milk with the other ingredients." },
+            { "verb": "whip up", "definition": "prepare (a meal) quickly", "example": "My sister can whip up a tasty meal in minutes from just a few ingredients." },
+            { "verb": "fish out", "definition": "remove from a liquid", "example": "Before serving the curry I made sure to fish out any bones." },
+            { "verb": "boil over", "definition": "flow over the edge of a container (during cooking)", "example": "The sauce boiled over, leaving a mess on the stove top." },
+            { "verb": "heat up", "definition": "make hotter", "example": "Dev took the leftovers from the fridge and heated them up in the microwave." },
+            { "verb": "consist of", "definition": "be formed of", "example": "My breakfast typically consists of bread and cheese, served with coffee." },
+            { "verb": "fill up", "definition": "fill a container to the top", "example": "We managed to fill up three jars with the cookies we'd baked." }
+          ]
+        },
+        {
+          "section_id": "29.2",
+          "title": "Preparing a Recipe",
+          "verbs": [
+            { "verb": "chop up", "definition": "cut into small pieces", "example": "Start by chopping up some onions, carrots, and potatoes." },
+            { "verb": "set aside", "definition": "keep something for later", "example": "After you've chopped the vegetables, set them aside for later." },
+            { "verb": "cut off", "definition": "remove something from a larger piece", "example": "I always cut off the fat from the meat before cooking it." },
+            { "verb": "pour in", "definition": "add a liquid", "example": "When the meat is cooked, pour in the stock." },
+            { "verb": "finish off", "definition": "complete", "example": "Finish off the stew by adding chopped parsley." },
+            { "verb": "leave out", "definition": "exclude, not include", "example": "To make a vegetarian version, leave out the meat and use mushrooms instead." }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": 30,
+      "title": "Food and Drink",
+      "sections": [
+        {
+          "section_id": "30.1",
+          "title": "Food",
+          "verbs": [
+            { "verb": "serve up", "definition": "present food to other people", "example": "Rosa served up a wonderful seafood dish." },
+            { "verb": "eat up", "definition": "eat all of something", "example": "Martin's grandmother told him he could only have dessert if he ate up all his vegetables." },
+            { "verb": "eat in", "definition": "eat a meal at home", "example": "Selma and Roy prefer to eat in. It's much cheaper than going to a restaurant." },
+            { "verb": "not agree with", "definition": "make someone feel ill", "example": "That fish really didn't agree with me. I have a terrible stomachache." },
+            { "verb": "go off", "definition": "become bad to eat or drink", "example": "I think this milk has gone off. It smells terrible." },
+            { "verb": "go together", "definition": "taste or look good together", "example": "Apple pie and ice cream go together perfectly." },
+            { "verb": "cater for", "definition": "provide for", "example": "Our restaurant can cater for about 100 customers at a time." }
+          ]
+        },
+        {
+          "section_id": "30.2",
+          "title": "Drink",
+          "verbs": [
+            { "verb": "drink to", "definition": "toast someone or something", "example": "After the wedding, we all drank to the bride and groom." },
+            { "verb": "drink up", "definition": "drink all of something", "example": "The cafe was about to close, so we drank up and got ready to leave." },
+            { "verb": "run out (of)", "definition": "use all of something, not have any more of something", "example": "I was going to make a lasagna, but we've run out of pasta." },
+            { "verb": "eat out", "definition": "eat in a cafe or restaurant, eat away from home", "example": "Why don't we eat out for a change? We could go to that new Italian restaurant instead." },
+            { "verb": "break off", "definition": "separate a smaller piece of something from a larger piece", "example": "Daniel broke off a piece of bread and dipped it in the olive oil." },
+            { "verb": "share out", "definition": "give each person the same amount of something", "example": "Lisa shared out the chocolates, giving the children two each." },
+            { "verb": "polish off", "definition": "eat or drink all of something", "example": "Greg was so hungry that he polished off the entire cake." },
+            { "verb": "wolf down", "definition": "eat all of something very quickly", "example": "After a long day at the beach, my kids wolfed down their dinner." },
+            { "verb": "take away", "definition": "take food out of a restaurant to eat elsewhere", "example": "Paul and Sarah ordered two hamburgers and sodas to take away." },
+            { "verb": "do without", "definition": "be better without", "example": "This cake is delicious, but it could do without all the cream on top." },
+            { "verb": "wash down", "definition": "drink something after eating (informal)", "example": "I washed down my pizza with a cold drink." },
+            { "verb": "top up", "definition": "fill a cup or glass that is partly empty", "example": "Your mug's almost empty, Peter. Would you like me to top it up?" }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": 31,
+      "title": "Hobbies, Free Time, and Relaxing",
+      "sections": [
+        {
+          "section_id": "31.1",
+          "title": "Hobbies and Free Time",
+          "verbs": [
+            { "verb": "live for", "definition": "have a passion for, consider something the most important thing in your life", "example": "Anastasia absolutely lives for skiing. She goes to the mountains whenever she can." },
+            { "verb": "get back into", "definition": "start doing something again after not doing it for some time", "example": "I recently got back into cycling. I hadn't done it since I was a teenager." },
+            { "verb": "get into", "definition": "become interested in, begin to enjoy an activity", "example": "It takes a while to get into horseback riding." },
+            { "verb": "keep at", "definition": "keep practicing a skill or activity despite difficulties", "example": "Learning the piano isn't easy, but if you keep at it, you could become a great pianist." },
+            { "verb": "come along", "definition": "improve at a skill or activity", "example": "Adi's painting skills are really coming along. He might become an artist one day." },
+            { "verb": "take up", "definition": "start learning a new skill or activity", "example": "After she retired, Kim took up yoga. She does it for half an hour each morning." },
+            { "verb": "pick up", "definition": "learn a new skill informally", "example": "While working in Seoul I tried to pick up some Korean by talking to local people." },
+            { "verb": "throw away", "definition": "waste a talent or opportunity", "example": "Fabio could have been a great guitarist, but he threw it all away by never practicing." },
+            { "verb": "start out", "definition": "begin doing a hobby or career", "example": "If you want to be a great tennis player, it helps if you start out at a young age." },
+            { "verb": "get out of", "definition": "enjoy", "example": "I found running very hard when I started, but I get a lot of satisfaction out of it now." }
+          ]
+        },
+        {
+          "section_id": "31.2",
+          "title": "Relaxing",
+          "verbs": [
+            { "verb": "wind down", "definition": "become calm (after a period of work or excitement)", "example": "After the exam, the students went to the local park to wind down." },
+            { "verb": "laze about", "definition": "relax, do no work", "example": "Nathan told his daughters to stop lazing about, and help to tidy the house." },
+            { "verb": "sit around", "definition": "spend time sitting, doing little", "example": "On my days off work, I like to sit around the garden doing nothing." },
+            { "verb": "lie around", "definition": "relax on the couch or in bed", "example": "I spend most Sundays lying around the house." },
+            { "verb": "stick at", "definition": "keep practicing a skill or activity despite difficulties", "example": "Ken's currently working toward getting a black belt in judo." },
+            { "verb": "work toward", "definition": "invest time in something with the aim of achieving something", "example": "Learning the piano isn't easy, but if you stick at it, you could become a great pianist." },
+            { "verb": "curl up", "definition": "lie or sit with your arms and legs pulled up towards you", "example": "Luiza spent the evening curled up on the couch reading a book." },
+            { "verb": "chill out", "definition": "relax, stop feeling angry or stressed", "example": "After a stressful day, I take a bath to help me chill out." },
+            { "verb": "loosen up", "definition": "relax, stop being so formal", "example": "Aden needs to loosen up. Tell him to come and dance with us!" }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": 32,
+      "title": "Health",
+      "sections": [
+        {
+          "section_id": "32.1",
+          "title": "Health",
+          "verbs": [
+            { "verb": "bounce back", "definition": "to recover quickly or without difficulty", "example": "My son always bounces back quickly whenever he gets ill." },
+            { "verb": "heal up", "definition": "(about a wound) become completely healthy", "example": "The wound seems to be healing up well. It will be better soon." },
+            { "verb": "clear up", "definition": "go away or get better", "example": "Elaine's rash began to clear up after she started using the cream." },
+            { "verb": "care for", "definition": "take care of", "example": "My brother's a nurse. He cares for sick people at the local hospital." },
+            { "verb": "go around", "definition": "spread from person to person", "example": "There's a bad cold going around my office at the moment. Everyone is ill." },
+            { "verb": "feel up to", "definition": "feel in a good enough condition", "example": "Mona has an awful headache. She doesn't feel up to working today." },
+            { "verb": "flare up", "definition": "suddenly appear or reappear", "example": "Paola's hay fever usually flares up in the spring." },
+            { "verb": "get over", "definition": "recover, feel well again", "example": "It's taken me weeks to get over this cold, but I finally feel better." },
+            { "verb": "swell up", "definition": "(about a swelling) become bigger", "example": "Danny's thumb swelled up after he was stung by a wasp." },
+            { "verb": "go down", "definition": "(about a swelling) become smaller", "example": "After a few hours, the swelling had started to go down." },
+            { "verb": "come down with", "definition": "become ill with", "example": "I think I'm coming down with the flu. I have a headache and my nose is running." },
+            { "verb": "come around", "definition": "become conscious again", "example": "When Rachel came around after the operation, her husband was sitting at her bedside." },
+            { "verb": "pass away", "definition": "die", "example": "I was very sad to hear that your grandmother has passed away." },
+            { "verb": "pass on", "definition": "give (an illness) to someone else", "example": "My son passed on the virus to his sisters." },
+            { "verb": "pass out", "definition": "faint, become unconscious", "example": "One of the musicians passed out during the performance this evening." },
+            { "verb": "pull through", "definition": "survive a serious illness or operation", "example": "It was a very risky operation, but Josh pulled through." },
+            { "verb": "seize up", "definition": "become stiff, difficult to move", "example": "Tina's leg muscles seized up after she had completed the marathon." },
+            { "verb": "shake off", "definition": "fully recover from", "example": "I've been ill for weeks, but I've finally managed to shake it off." },
+            { "verb": "throw up", "definition": "vomit", "example": "Ella's been throwing up all day. She must be suffering from food poisoning." },
+            { "verb": "wear off", "definition": "gradually lose its effectiveness", "example": "As the painkiller wore off, Shahid's tooth began to ache again." }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": 33,
+      "title": "Sports and Exercise",
+      "sections": [
+        {
+          "section_id": "33.1",
+          "title": "Sports",
+          "verbs": [
+            { "verb": "send off", "definition": "tell someone to leave a game because they have broken the rules", "example": "Clara was sent off the pitch after pushing over another player." },
+            { "verb": "knock out (of)", "definition": "defeat a team or player, removing them from a competition", "example": "Angela knocked Kirsten out in the first round of the competition." },
+            { "verb": "cheer on", "definition": "encourage someone by cheering", "example": "The crowd cheered Tony on as he approached the finish line." },
+            { "verb": "sign up (for)", "definition": "join a team or activity", "example": "Pete wanted to start playing baseball, so he signed up for his school team." },
+            { "verb": "rank among", "definition": "be included among", "example": "My sister is a judo champion. She ranks among the best in the country." },
+            { "verb": "get through (to)", "definition": "reach (a stage in a competition)", "example": "Five runners have gotten through to the final. Whoever wins this race gets the trophy." }
+          ]
+        },
+        {
+          "section_id": "33.2",
+          "title": "Exercise",
+          "verbs": [
+            { "verb": "burn off", "definition": "use up energy (by doing exercise)", "example": "After a big meal, Chris goes for a brisk walk to burn off the extra calories." },
+            { "verb": "stretch out", "definition": "extend", "example": "For this yoga position, you have to stretch your arms out as far as you can." },
+            { "verb": "wear out", "definition": "make very tired", "example": "Playing tennis all afternoon with Gus has worn Charlie out." },
+            { "verb": "wipe out", "definition": "make extremely tired", "example": "Jamal was completely wiped out after cycling up the mountain." },
+            { "verb": "size up", "definition": "look (at a person or situation) and decide how to act", "example": "Frank watched Phillip play tennis. He was sizing up his opponent before the next day's match." },
+            { "verb": "turn around", "definition": "make a bad situation better", "example": "It looked like the Eagles were going to lose the match, but they turned it around at the last minute." },
+            { "verb": "aim at", "definition": "direct something at something else", "example": "I picked up my bow and aimed another arrow at the target." },
+            { "verb": "join in", "definition": "get involved in something that others are already doing", "example": "Sami invited me to join in a game of cricket." },
+            { "verb": "keep from", "definition": "prevent someone from doing something", "example": "My knee injury kept me from completing the marathon this year." },
+            { "verb": "keep up (with)", "definition": "move at the same speed", "example": "I struggle to keep up with my brother. He's much fitter than I am." },
+            { "verb": "work off", "definition": "get rid of (energy or an emotion)", "example": "After a long day in the office, playing squash helps me to work off all my stress." },
+            { "verb": "warm up", "definition": "prepare your body for exercise", "example": "Before playing a game of soccer, I always warm up by jogging slowly." },
+            { "verb": "warm down", "definition": "stretch and relax your body after exercise", "example": "After finishing the race, Sandra warmed down by stretching her legs." },
+            { "verb": "work out", "definition": "exercise", "example": "Leo works out at his local gym every morning." }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": 34,
+      "title": "The Arts",
+      "sections": [
+        {
+          "section_id": "34.1",
+          "title": "Creativity",
+          "verbs": [
+            { "verb": "make into", "definition": "change something into something else", "example": "Sami and Shahid made the cardboard box into a robot." },
+            { "verb": "mock up", "definition": "make a model of something", "example": "The architects have mocked up a model of the new museum." },
+            { "verb": "color in", "definition": "use colored pencils or pens to add colors to a drawing", "example": "Greg and Chloe colored in pictures of dinosaurs after their trip to the museum." }
+          ]
+        },
+        {
+          "section_id": "34.2",
+          "title": "Media",
+          "verbs": [
+            { "verb": "aim at", "definition": "be intended for or targeted at", "example": "The new music channel is aimed at people who like jazz." },
+            { "verb": "feed on", "definition": "take advantage of", "example": "This new TV show feeds on people's curiosity about aliens." },
+            { "verb": "tune into", "definition": "watch or listen to a program or station on the television or radio", "example": "I tune into my favorite radio show every Sunday morning." }
+          ]
+        },
+        {
+          "section_id": "34.3",
+          "title": "Music",
+          "verbs": [
+            { "verb": "fade in", "definition": "gradually become louder", "example": "At the start of the horror movie, scary music started to fade in." },
+            { "verb": "fade away", "definition": "gradually become quieter", "example": "The noise from the parade faded away as it moved away from us." },
+            { "verb": "die away", "definition": "become quieter before ending", "example": "As the music died away, the presenter stepped onto the stage." },
+            { "verb": "filter out", "definition": "remove or block something", "example": "My new headphones help me concentrate by filtering out background noise." }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": 35,
+      "title": "Travel",
+      "sections": [
+        {
+          "section_id": "35.1",
+          "title": "Travel",
+          "verbs": [
+            { "verb": "arrive at", "definition": "reach a destination", "example": "When Krishna arrived at the villa, the party had already begun." },
+            { "verb": "get around", "definition": "travel from place to place", "example": "During his vacation in Rome, Anton hired a moped to get around the city." },
+            { "verb": "check in(to)", "definition": "register your arrival at a hotel or airport", "example": "When they arrived at the hotel, Julia and John went to reception to check in." },
+            { "verb": "check out (of)", "definition": "leave a hotel after paying the bill", "example": "Julia and John checked out of the hotel and went to the airport." },
+            { "verb": "pass by", "definition": "pass another place (while on the way somewhere else)", "example": "On your way to London you'll pass by Cambridge, a beautiful university city." },
+            { "verb": "go back", "definition": "visit again", "example": "Dan and I went to Paris for our honeymoon. We went back last month for our 25th wedding anniversary." },
+            { "verb": "get back from", "definition": "return from", "example": "By the time we got back from our cycle ride, it was already getting dark." },
+            { "verb": "end up", "definition": "arrive somewhere unintentionally", "example": "We were supposed to hike to the mountain, but we ended up by the lake." },
+            { "verb": "go off (to)", "definition": "go on a trip or vacation", "example": "Marimar and I went off to Miami recently." },
+            { "verb": "get away", "definition": "go somewhere for a break or to relax", "example": "It was great to get away for a few days!" },
+            { "verb": "soak up", "definition": "look and listen, enjoy", "example": "Our hotel overlooks the sea. We soak up the atmosphere each morning as we have our coffee." },
+            { "verb": "pack in", "definition": "include (a lot of something)", "example": "We're packing in lots of sightseeing during our vacation." },
+            { "verb": "head for", "definition": "move towards a certain destination", "example": "We've been in Cyprus for a few days, but we're heading for Athens today." },
+            { "verb": "bring back", "definition": "return with", "example": "We brought you back some local olives. They're delicious!" },
+            { "verb": "set out (on)", "definition": "start a journey", "example": "Whenever we set out on a hike, we always take waterproofs, a compass, and a map." },
+            { "verb": "set off (for)", "definition": "start a journey", "example": "We set off for Chicago at dawn when there would be less traffic on the roads." },
+            { "verb": "stop over", "definition": "stay somewhere on the way to somewhere else", "example": "On our way to Barcelona, we stopped over in a lovely hotel for the night." },
+            { "verb": "put up", "definition": "put together, erect", "example": "We managed to put the tent up even though it was raining heavily." }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": 36,
+      "title": "Communication",
+      "sections": [
+        {
+          "section_id": "36.1",
+          "title": "Talking",
+          "verbs": [
+            { "verb": "talk round", "definition": "manage to persuade someone", "example": "Ben's not keen on buying a new car. I'm trying to talk him round." },
+            { "verb": "talk through", "definition": "explain how something works", "example": "Kirsty talked the workers through the new software system." },
+            { "verb": "talk at", "definition": "talk to someone without letting them speak", "example": "Marco is always talking at people. He never gives them a chance to speak." },
+            { "verb": "talk into", "definition": "persuade someone to do something", "example": "My kids talked me into getting a puppy. They've promised to take care of it." },
+            { "verb": "talk out of", "definition": "persuade someone not to do something", "example": "Shona wanted to dye her hair green, but her sister talked her out of it." },
+            { "verb": "talk down to", "definition": "talk in a patronizing way to", "example": "Uncle Toby still talks down to me like I'm a child, even though I'm 25." },
+            { "verb": "cut in", "definition": "interrupt", "example": "While Julia was explaining her idea, Rupert cut in to tell her she was wrong." },
+            { "verb": "launch into", "definition": "suddenly begin speaking with enthusiasm about something", "example": "We were chatting about movies when Tina launched into a speech about her favorite actors." },
+            { "verb": "mouth off", "definition": "talk negatively about something or someone (informal)", "example": "Simone spent the whole of lunch mouthing off about how much she hates her new boss." },
+            { "verb": "shut up", "definition": "stop talking (rude)", "example": "Shut up and listen to me for once!" },
+            { "verb": "drown out", "definition": "talk louder than someone else", "example": "I couldn't hear Louise at all. The man next to us was completely drowning her out." },
+            { "verb": "ramble on", "definition": "talk for a long time about something (in an annoying or incoherent way)", "example": "Diana is always rambling on about how things were better when she was a child." },
+            { "verb": "tail off", "definition": "stop talking gradually", "example": "Craig was trying to tell a joke, but tailed off as he realized that no one was listening." },
+            { "verb": "come up (in)", "definition": "be mentioned in conversation, usually unexpectedly", "example": "When soccer came up in conversation, Bill and I realized we support the same team." },
+            { "verb": "tone down", "definition": "make your language less strong", "example": "I think you should tone down your language." },
+            { "verb": "come out with", "definition": "say something surprising", "example": "Lauren comes out with the funniest things. Today she told me she wants to live on the Moon." },
+            { "verb": "drone on", "definition": "talk for a long time in a very boring way", "example": "The lecturer droned on for what felt like hours. We were half asleep by the end." },
+            { "verb": "strike up", "definition": "start a conversation", "example": "After the concert, I struck up a conversation with one of the guitarists." },
+            { "verb": "blurt out", "definition": "say something without thinking about it first", "example": "Andy blurted out the name of the winner. It was supposed to be a secret." }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": 37,
+      "title": "Reading and Writing",
+      "sections": [
+        {
+          "section_id": "37.1",
+          "title": "Writing",
+          "verbs": [
+            { "verb": "fill in", "definition": "complete a form", "example": "Before you can use the gym, you need to fill in this form." },
+            { "verb": "write out", "definition": "write something in full by hand", "example": "Ted always writes out his essays instead of typing them." },
+            { "verb": "jot down", "definition": "record information by writing it", "example": "The journalist jotted down the details as Dan described his role in the new movie." },
+            { "verb": "scribble down", "definition": "write something quickly or roughly", "example": "Miguel scribbled down a note to his housemate to say that he was going out for the evening." },
+            { "verb": "type up", "definition": "type something from written notes", "example": "Celia read through her notes from today's lecture and typed them up." },
+            { "verb": "cut down", "definition": "reduce in size", "example": "Your essay's too long, Marcel. You need to cut it down a bit." },
+            { "verb": "cut out", "definition": "remove material from a text", "example": "Okay. I'll try to cut out 500 words." },
+            { "verb": "write down", "definition": "record information by writing it", "example": "When I write a restaurant review I usually write down a few thoughts while I'm eating." },
+            { "verb": "write up", "definition": "write or type something in full from notes", "example": "I wrote up my review at home later that evening." },
+            { "verb": "write in", "definition": "enter information by writing it", "example": "When completing the form, Damian wrote in his age." },
+            { "verb": "note down", "definition": "make written notes", "example": "Paco read the book and noted down the most important points." }
+          ]
+        },
+        {
+          "section_id": "37.2",
+          "title": "Reading",
+          "verbs": [
+            { "verb": "flick through", "definition": "look through a book or magazine quickly or casually", "example": "Alexandra flicked through a magazine while she waited to get her hair cut." },
+            { "verb": "read through", "definition": "read something from start to finish", "example": "Max read through the full report before giving his opinion." },
+            { "verb": "read out", "definition": "read aloud (for others to hear)", "example": "As the judge read out the names of the winners, Pablo waited hopefully." },
+            { "verb": "read up on", "definition": "research or revise a topic", "example": "Fatima read up on ancient Greece before her history exam." },
+            { "verb": "stand for", "definition": "represent, be an abbreviation for", "example": "\"UFO\" stands for Unidentified Flying Object." },
+            { "verb": "pore over", "definition": "read with great attention", "example": "We pored over the old document looking for clues." },
+            { "verb": "dip into", "definition": "read a small part of a book", "example": "I've only dipped into Nia's new novel, but it's fantastic so far." }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": 38,
+      "title": "Phones and Messages",
+      "sections": [
+        {
+          "section_id": "38.1",
+          "title": "On the Phone",
+          "verbs": [
+            { "verb": "pick up", "definition": "answer a phone call", "example": "I had to call Megan six times before she finally picked up the phone." },
+            { "verb": "call back", "definition": "return a call, phone someone who tried to speak to you earlier", "example": "Hi Laura, sorry I'm cooking at the moment. Can I call you back in 10 minutes?" },
+            { "verb": "dial in(to)", "definition": "join a conference call", "example": "Anna works from home on Tuesdays, so she will dial into the meeting." },
+            { "verb": "hang up", "definition": "end a phone call (often suddenly)", "example": "After chatting for over an hour, Simon and I said goodbye and hung up." },
+            { "verb": "speak up", "definition": "talk more loudly", "example": "Could you please speak up? I can't hear you very well!" },
+            { "verb": "get through (to)", "definition": "make contact with someone by phone", "example": "I've called Olly a few times this evening, but I can't get through." },
+            { "verb": "break up", "definition": "become difficult to hear (because of a bad signal or connection)", "example": "Sorry, I can't hear you very well, I'm afraid. You keep breaking up." },
+            { "verb": "phone around", "definition": "phone several people", "example": "I phoned around to ask if any of my friends wanted to go to the beach with me." },
+            { "verb": "put through (to)", "definition": "connect someone to the person they want to speak to", "example": "Could I speak to Mr. Yamamoto, please? Certainly. I'll put you through now, madam." }
+          ]
+        },
+        {
+          "section_id": "38.2",
+          "title": "Leaving a Message",
+          "verbs": [
+            { "verb": "pass on", "definition": "give someone a message that someone else has given to you", "example": "Dave passed on a message telling me that Rob had called." },
+            { "verb": "follow up on", "definition": "find out more information, do something in response to something", "example": "He wants to follow up on your chat about the new logo last week." },
+            { "verb": "get back (to)", "definition": "reply to a phone call or email, contact someone (with a response)", "example": "He asked me to get back to him as soon as possible." }
+          ]
+        },
+        {
+          "section_id": "38.3",
+          "title": "Sending and Replying",
+          "verbs": [
+            { "verb": "write back", "definition": "reply by letter or email", "example": "I love receiving letters from my dad. I always write back immediately." },
+            { "verb": "send out (to)", "definition": "send to a group of people", "example": "Claudia sent wedding invitations out to all her friends and family." },
+            { "verb": "text back", "definition": "reply by text message", "example": "I sent Paul a text asking him where he was. He texted back saying he was on the train." },
+            { "verb": "email back", "definition": "reply by email", "example": "Chris emailed me a week ago, but I only just remembered to email him back." },
+            { "verb": "reach out (to)", "definition": "contact", "example": "Our company is trying to reach out to new customers by offering discounts." },
+            { "verb": "send off (to)", "definition": "send something by post or email", "example": "Murat completed all the forms and sent them off to the passport office." }
+          ]
+        }
+      ]
+    }, 
+        {
+      "unit_id": 39,
+      "title": "Ideas",
+      "sections": [
+        {
+          "section_id": "39.1",
+          "title": "Ideas",
+          "verbs": [
+            { "verb": "bombard with", "definition": "ask too many questions, give too much information", "example": "They bombarded us with too much information during the training course." },
+            { "verb": "touch on", "definition": "briefly mention something in a talk or text", "example": "The president's speech touched on the economy, healthcare, and education." },
+            { "verb": "run with", "definition": "do what someone suggests", "example": "When my husband suggested buying a new kitchen, I ran with it." },
+            { "verb": "throw out", "definition": "suggest lots of spontaneous ideas", "example": "The creative manager asked her team to throw out as many ideas as they could." },
+            { "verb": "come up with", "definition": "think of an idea, suggestion, or plan", "example": "Ted has come up with some good ideas for a new logo." },
+            { "verb": "bounce off", "definition": "exchange creative ideas to see how other people respond to them", "example": "Gill and the design team are bouncing ideas off each other before the show next week." },
+            { "verb": "put to", "definition": "make a suggestion so that others can choose to accept it or not", "example": "I wrote a proposal for more environmentally friendly policies and put it to the directors." },
+            { "verb": "get behind", "definition": "offer support to someone", "example": "When I told my friends I was starting my own business, they all got behind the idea." },
+            { "verb": "rule out", "definition": "remove someone or something as an option when making a choice", "example": "We have ruled out three of the candidates. It's a choice between Danny and Carmen." },
+            { "verb": "put forward", "definition": "offer an opinion, idea, or suggestion", "example": "He decided to put forward the version with the star." }
+          ]
+        },
+        {
+          "section_id": "39.2",
+          "title": "Realizing Things",
+          "verbs": [
+            { "verb": "attribute to", "definition": "believe that a certain person said or created something", "example": "Experts have attributed this painting to Joan Miró because of the distinctive style." },
+            { "verb": "come across", "definition": "be communicated", "example": "The artist's feelings of anger come across very strongly in this painting." },
+            { "verb": "dawn on", "definition": "become clear to someone", "example": "It finally dawned on me that Claude was the killer." },
+            { "verb": "occur to", "definition": "suddenly come into someone's mind", "example": "It had never occurred to me that such a charming character could commit such a terrible crime." }
+          ]
+        },
+        {
+          "section_id": "39.3",
+          "title": "Thoughts",
+          "verbs": [
+            { "verb": "think through", "definition": "carefully think about something considering the advantages and disadvantages", "example": "Before deciding whether or not to move to Canada, we need to think it through." },
+            { "verb": "reflect on", "definition": "carefully think about something", "example": "While writing her memoir, Rebecca reflected on her childhood." },
+            { "verb": "think up", "definition": "invent a new plan or idea in your mind", "example": "Selma is very creative. She thinks up lots of wonderful dishes." },
+            { "verb": "boil down to", "definition": "be the most important reason", "example": "There's a lot to think about when buying a house, but it often boils down to money." },
+            { "verb": "think over", "definition": "carefully think about a plan or idea before making a decision", "example": "I asked Zoya if she'd like to work for us. She's thinking it over, and will let us know tomorrow." },
+            { "verb": "think of", "definition": "create a mental image of something or someone", "example": "The teacher asked us all to think of a famous person from history and write a story about them." }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": 40,
+      "title": "Explaining Things",
+      "sections": [
+        {
+          "section_id": "40.1",
+          "title": "Explaining Things",
+          "verbs": [
+            { "verb": "spell out", "definition": "explain something very clearly (usually with anger or frustration)", "example": "How many times do I have to spell it out to you? You're not allowed to use your phone in class." },
+            { "verb": "allude to", "definition": "mention something indirectly", "example": "The politician alluded to housing in his speech, but mostly spoke about transportation." },
+            { "verb": "come back to", "definition": "return to a subject", "example": "During her speech, the senator kept coming back to her financial policies." },
+            { "verb": "expand on", "definition": "give more details about something", "example": "The interviewer asked me to expand on my experience of working with animals." },
+            { "verb": "go back over", "definition": "explain the details of something again", "example": "I asked the professor if he could go back over some of the points from the lecture." },
+            { "verb": "act out", "definition": "explain or show something by performing or re-enacting it", "example": "Pete couldn't remember the French word for 'swimming,' so he acted it out." },
+            { "verb": "put across", "definition": "successfully explain an idea or express a feeling", "example": "Yuri managed to put his ideas across very well during the debate." },
+            { "verb": "point out", "definition": "help someone to notice something", "example": "My friend pointed out some of the mistakes I'd made in my code." },
+            { "verb": "fill (someone) in (on)", "definition": "provide the latest or most important information about something", "example": "Becky asked Sarah to fill her in on the latest gossip from the office." },
+            { "verb": "dumb down", "definition": "make something easier to understand", "example": "Gio didn't know anything about computers, so he asked the salesperson to dumb it down for him." }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": 41,
+      "title": "Lies and Secrets",
+      "sections": [
+        {
+          "section_id": "41.1",
+          "title": "Secrets",
+          "verbs": [
+            { "verb": "catch on", "definition": "realize something is happening", "example": "I never caught on that Dad's company was in such debt." },
+            { "verb": "own up (to)", "definition": "admit that something was your fault", "example": "Conan finally owned up to breaking the window. He'd been denying it all morning." },
+            { "verb": "come out", "definition": "become known", "example": "When it came out that he was bankrupt, I was shocked!" }
+          ]
+        },
+        {
+          "section_id": "41.2",
+          "title": "Lies",
+          "verbs": [
+            { "verb": "fall for", "definition": "be tricked into believing something", "example": "We fell for the salesman's talk. The car we bought broke down after a few days." },
+            { "verb": "make up", "definition": "invent a story to explain something", "example": "Pio's always making up excuses for handing in his homework late. Today, he claimed his school bag had been stolen." },
+            { "verb": "string along", "definition": "give someone false hopes or make them believe something that is false", "example": "Tyler has been promising to pay me back for months, but he's just stringing me along." },
+            { "verb": "mess around", "definition": "treat someone badly by deceiving them or changing plans regularly", "example": "Alice accused me of messing her around when I canceled our date for a third time." },
+            { "verb": "cover up", "definition": "hide the truth from other people", "example": "After eating all the cake, John tried to cover it up by claiming the dog had eaten it." },
+            { "verb": "add up", "definition": "make sense, be a logical explanation", "example": "Larry's claim that he was at home on the night of the crime didn't add up." },
+            { "verb": "suss out (UK)", "definition": "understand what someone wants, or what kind of person they are", "example": "It's really hard to suss the new neighbors out. They don't say anything about themselves." },
+            { "verb": "see through", "definition": "be aware that something is not true", "example": "Gary was always exaggerating about how rich he was, but Safiya could see through his lies." },
+            { "verb": "find out", "definition": "discover information", "example": "I've been trying to find out from Nisha who Sammy's dating." },
+            { "verb": "let on", "definition": "admit or reveal something", "example": "I think she knows more than she's letting on." },
+            { "verb": "catch out", "definition": "discover that someone is lying", "example": "Amrit promised his mother he'd stay home and study, but she caught him out when she heard him come home late." },
+            { "verb": "explain away", "definition": "try to persuade someone that a bad situation is not important or not your fault", "example": "Josie tried to explain away the damage to my car by saying it was just a small scratch." },
+            { "verb": "play down", "definition": "make a problem seem unimportant", "example": "The CEO has been playing down the company's financial problems." },
+            { "verb": "gloss over", "definition": "try to make bad news or a mistake seem unimportant", "example": "Mario glossed over the bad result, claiming the team would soon be back on form." },
+            { "verb": "make out", "definition": "pretend", "example": "Kirstie's been making out that everything's okay, but I know she's stressed about her interview." },
+            { "verb": "put on", "definition": "pretend", "example": "It looked as if Aaron had been injured, but I knew he was putting it on." }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": 42,
+      "title": "Encouragement",
+      "sections": [
+        {
+          "section_id": "42.1",
+          "title": "Encouragement and Persuasion",
+          "verbs": [
+            { "verb": "spur on", "definition": "encourage someone, inspire someone to do something", "example": "The thought of winning first prize spurred Farukh on." },
+            { "verb": "put onto", "definition": "tell someone about something they might find useful", "example": "Helen has put me onto this great new hair salon. I'm going to check it out." },
+            { "verb": "put up to", "definition": "encourage someone to do something that is wrong", "example": "When Zoe asked her daughter why she'd stolen the cookies, she said her elder brother had put her up to it." },
+            { "verb": "bring around", "definition": "persuade someone to support your idea", "example": "Lisa's speech in favor of a new nature reserve has brought many people around to the idea." },
+            { "verb": "root for", "definition": "show your support for someone", "example": "Kendra was very nervous, but was happy to see her friends rooting for her." },
+            { "verb": "buck up", "definition": "make someone feel happier", "example": "My son was upset, so I bought him an ice cream to buck him up." },
+            { "verb": "egg on", "definition": "encourage someone to do something (often something naughty)", "example": "Marcus's friends egged him on as he climbed the tree." },
+            { "verb": "urge on", "definition": "encourage someone to do something", "example": "The crowd urged Mona on as she approached the end of the tightrope." },
+            { "verb": "reason with", "definition": "offer logical arguments to try to change someone's mind", "example": "Rahul was skeptical about electric cars until the salesman reasoned with him." },
+            { "verb": "win over", "definition": "successfully persuade someone to support your idea", "example": "He eventually won him over by explaining how eco-friendly they are." }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": 43,
+      "title": "Agreeing and Disagreeing",
+      "sections": [
+        {
+          "section_id": "43.1",
+          "title": "Agreeing and Disagreeing",
+          "verbs": [
+            { "verb": "disagree with", "definition": "believe that someone or something is wrong", "example": "Martin and Simon disagreed with each other about what color to paint the kitchen." },
+            { "verb": "agree with", "definition": "have the same opinion as someone", "example": "Everyone agrees with John that Sian should get the job." },
+            { "verb": "go along with", "definition": "unwillingly agree to do something", "example": "I want to go on an expensive vacation this year. I'm trying to persuade my husband to go along with the idea." },
+            { "verb": "count on", "definition": "rely on someone", "example": "I can always count on my sister to comfort me when I'm upset." },
+            { "verb": "hit out at", "definition": "strongly criticize someone", "example": "During the debate, the politician hit out at her opponents." },
+            { "verb": "pull up on (UK)", "definition": "criticize someone for a particular thing", "example": "Danny pulled Roberta up on her attitude towards the environment." },
+            { "verb": "come out against", "definition": "reveal your opposition to something in public", "example": "Our local representative has come out against the plans for a new housing development." },
+            { "verb": "side with", "definition": "support someone in something in an argument", "example": "Whenever there's a disagreement at work, Paulina always sides with our boss. It's so irritating!" },
+            { "verb": "have (something) against", "definition": "dislike someone for an unknown reason", "example": "I think Sonia has something against me. She never wants to talk to me." },
+            { "verb": "stand up to", "definition": "defend someone or yourself against someone else", "example": "Carla stood up to the bullies. She told them to stop being mean to her brother." },
+            { "verb": "push back (on)", "definition": "resist or oppose something", "example": "The workers at the factory are pushing back on the management's attempt to introduce a pay cut." },
+            { "verb": "shoot down", "definition": "reject an idea", "example": "My idea was shot down by the panel before I had a chance to explain it to them." },
+            { "verb": "fight back", "definition": "respond to someone who has criticized you", "example": "When Emily's boss accused her of being lazy, she fought back by showing him the clothes she had made that morning." }
+          ]
+        },
+        {
+          "section_id": "43.2",
+          "title": "Avoiding Conflict",
+          "verbs": [
+            { "verb": "laugh off", "definition": "deal with criticism or a difficult situation by laughing at it", "example": "Terry's colleagues always make fun of his shirts, but he just laughs it off." },
+            { "verb": "make up for", "definition": "do something positive to correct a mistake", "example": "Donna bought her brother some chocolates to make up for the things she had said to him." },
+            { "verb": "shrug off", "definition": "treat something as if it is not important", "example": "Paul usually shrugs off criticism of his cooking." },
+            { "verb": "iron out", "definition": "solve small problems or details", "example": "The two companies have almost reached a deal. They just need to iron out a few last details." },
+            { "verb": "rise above", "definition": "not let criticism or a difficult situation affect you badly", "example": "Everyone criticized Magda's art when she started, but she rose above it and is a successful artist now." }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": 44,
+      "title": "Opinions and Arguments",
+      "sections": [
+        {
+          "section_id": "44.1",
+          "title": "Offering Opinions",
+          "verbs": [
+            { "verb": "get at", "definition": "imply, try to say something indirectly", "example": "Sorry, I'm not sure what you're getting at." },
+            { "verb": "lay into", "definition": "criticize someone in an angry way", "example": "The manager laid into the players after they lost another match." },
+            { "verb": "speak out", "definition": "give your opinion publicly", "example": "Anetta is always speaking out about environmental issues." },
+            { "verb": "lash out (at)", "definition": "criticize someone in an angry way", "example": "Andy lashed out at someone who dropped litter in the street." },
+            { "verb": "weigh in on", "definition": "add your opinion to an ongoing discussion", "example": "The professor weighed in on the debate about the new power station." },
+            { "verb": "base on", "definition": "use facts or arguments to support your opinion", "example": "Farah makes sure to base all her arguments on facts." }
+          ]
+        },
+        {
+          "section_id": "44.2",
+          "title": "Joining Arguments",
+          "verbs": [
+            { "verb": "back up", "definition": "give someone support by agreeing with them", "example": "When Dad accused me of lying, Jo backed me up and told him I was telling the truth." },
+            { "verb": "stick up for", "definition": "defend someone or something", "example": "Only one of my colleagues stuck up for me when my boss criticized my work." },
+            { "verb": "drag into", "definition": "make someone join in an argument against their will", "example": "Moira tried to drag Phil into her argument with the chef." },
+            { "verb": "stay out of", "definition": "avoid becoming involved in an argument", "example": "Phil, however, preferred to stay out of it." }
+          ]
+        },
+        {
+          "section_id": "44.3",
+          "title": "Surrendering, Compromise, and Reconciliation",
+          "verbs": [
+            { "verb": "make up (with)", "definition": "become friends again", "example": "Ben and Gus finally made up after their argument." },
+            { "verb": "fall out (with)", "definition": "have a disagreement with someone", "example": "They had fallen out when they both applied for the same job." },
+            { "verb": "back down", "definition": "withdraw a demand or admit you were wrong", "example": "Sam wanted his waiters to dress as hot dogs. He backed down when they threatened to quit." },
+            { "verb": "climb down (UK)", "definition": "admit you are wrong (after some resistance)", "example": "When Pete showed Martin the facts, Martin had to climb down and admit he was wrong." },
+            { "verb": "back off", "definition": "withdraw a threat", "example": "Kirsten had been threatening to fire Imran, but she backed off when he promised to work harder." },
+            { "verb": "patch up", "definition": "sort out your differences and become friends again", "example": "Arun and Les patched things up after they had an argument." },
+            { "verb": "take back", "definition": "admit that what you said was wrong", "example": "I'm sorry I said I didn't like your dress, Katie. I take it back." },
+            { "verb": "smooth over (with)", "definition": "resolve a problem or disagreement", "example": "I'm trying to smooth things over with Anna, so I bought her some flowers." },
+            { "verb": "cave in", "definition": "agree to something (after a lot of resistance)", "example": "Craig's parents finally caved in and bought him a games console." },
+            { "verb": "water down", "definition": "make an opinion or proposal less strong", "example": "Ed hated Carla's new book, but he watered down his opinion when he wrote his review." }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": 45,
+      "title": "Emotions",
+      "sections": [
+        {
+          "section_id": "45.1",
+          "title": "Positive Emotions",
+          "verbs": [
+            { "verb": "cheer up", "definition": "become happier or make someone feel happier", "example": "Craig had had a bad day at work, but watching a funny movie cheered him up." },
+            { "verb": "burst out", "definition": "suddenly begin (laughing or crying)", "example": "The children burst out laughing when the clown pretended to fall over." },
+            { "verb": "brighten up", "definition": "begin to feel happier", "example": "Yana was upset, but she brightened up when I bought her some tickets to a concert." },
+            { "verb": "perk up", "definition": "become happier or more lively", "example": "Anna hadn't been feeling great, but she perked up after a cup of tea and a cookie." }
+          ]
+        },
+        {
+          "section_id": "45.2",
+          "title": "Dealing with Emotions",
+          "verbs": [
+            { "verb": "calm down", "definition": "become calmer", "example": "When Linda feels stressed, she listens to music to help her calm down." },
+            { "verb": "check up on", "definition": "check that someone is all right", "example": "I've been checking up on Andrei every day since he lost his job. He's been very upset." },
+            { "verb": "feel for", "definition": "feel sympathy toward someone", "example": "I really feel for Kim. She's been so upset since her cat went missing." },
+            { "verb": "snap out of", "definition": "suddenly improve your mood or behavior", "example": "Petra's been sulking for days. I wish she'd snap out of it." },
+            { "verb": "settle down", "definition": "become calmer", "example": "Cory's daughter started to settle down as he sang her a soothing song." },
+            { "verb": "open up", "definition": "reveal your true feelings", "example": "Jack's a very private person, but he finally opened up and told me how he feels." },
+            { "verb": "lighten up", "definition": "stop taking everything so seriously", "example": "Sophie needs to lighten up. She's still studying even though it's her birthday today." },
+            { "verb": "shine through", "definition": "be clear, easy to see (about a positive emotion or quality)", "example": "Patrick's love of music shines through when he starts playing his guitar." },
+            { "verb": "crack up", "definition": "begin laughing or make someone laugh a lot", "example": "Hiro's jokes are hilarious. He really cracks me up." },
+            { "verb": "light up", "definition": "suddenly look happy", "example": "Donny's face lit up when he saw the presents waiting for him on the table." },
+            { "verb": "get over", "definition": "recover from a bad experience", "example": "Kathy and Jamal broke up last month, but Kathy is still finding it hard to get over it." },
+            { "verb": "move on", "definition": "stop thinking about someone or something", "example": "Kathy is finally moving on after her breakup with Jamal last year." },
+            { "verb": "toughen up", "definition": "become physically or mentally stronger", "example": "Ed's really toughened up after three years in the army." },
+            { "verb": "turn to", "definition": "ask someone for help", "example": "Whenever I'm upset, I know I can turn to my sister." },
+            { "verb": "work through", "definition": "deal with your problems in a systematic way", "example": "I see a therapist to help me work through my problems." },
+            { "verb": "cope with", "definition": "manage, deal with a situation", "example": "My therapist has helped me to cope with many of my problems." }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": 46,
+      "title": "Negative Emotions",
+      "sections": [
+        {
+          "section_id": "46.1",
+          "title": "Negative Emotions",
+          "verbs": [
+            { "verb": "bottle up", "definition": "feel unable to show your emotions to others", "example": "Chris had been bottling up his emotions for a long time." },
+            { "verb": "break down", "definition": "start to cry", "example": "He eventually broke down and admitted that he was really upset." },
+            { "verb": "fall apart", "definition": "become very emotional, lose control", "example": "Andy fell apart when I told him that I was moving to another country." },
+            { "verb": "set off", "definition": "make someone start crying", "example": "This song is so moving. It always sets me off." },
+            { "verb": "get to", "definition": "irritate or upset someone", "example": "It really gets to me when people leave their trash on the metro." },
+            { "verb": "choke up", "definition": "become emotional or upset", "example": "Tamal and Sam choked up when the hero died at the end of the movie." },
+            { "verb": "take out on", "definition": "behave in a bad way to someone even though it is not their fault", "example": "Stop taking it out on me. It's not my fault the weather is awful." },
+            { "verb": "well up", "definition": "have your eyes fill with tears, start to cry", "example": "Bella welled up when Pete asked her to marry him." },
+            { "verb": "get down", "definition": "make someone feel depressed", "example": "I'm sick of my neighbors arguing. It's been getting me down for months." },
+            { "verb": "mist over", "definition": "(about eyes) fill with tears", "example": "Sadie's eyes misted over as she told me about her childhood in the countryside." },
+            { "verb": "build up", "definition": "become bigger or stronger", "example": "Sadie's anger about her boss's rude behavior had been building up." },
+            { "verb": "spill over", "definition": "start to show (in an uncontrollable way)", "example": "It eventually spilled over, and Sadie told her how she felt." },
+            { "verb": "fly into", "definition": "(about temper, rage, or panic) suddenly become very angry or scared", "example": "Clare flew into a rage when her computer crashed and lost all her work." },
+            { "verb": "tense up", "definition": "suddenly become tense or anxious", "example": "My husband tenses up whenever I try to talk about money with him." },
+            { "verb": "freak out", "definition": "become very upset or afraid (informal)", "example": "Troy freaked out when he noticed the enormous spider climbing up the wall." },
+            { "verb": "wind up (UK)", "definition": "tease someone, make someone angry", "example": "My grandchildren love to wind me up. They're always playing tricks on me." },
+            { "verb": "weigh on", "definition": "make someone feel worried or unhappy", "example": "Work has been weighing on me a lot recently." },
+            { "verb": "blow up", "definition": "suddenly become very angry", "example": "My manager is usually very understanding, but he blew up when I told him that I'd left my work laptop on the train." }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": 47,
+      "title": "Making Decisions",
+      "sections": [
+        {
+          "section_id": "47.1",
+          "title": "Making Decisions",
+          "verbs": [
+            { "verb": "decide on", "definition": "reach a decision", "example": "Lisa found it hard to choose a dress, but eventually decided on the red one." },
+            { "verb": "go for", "definition": "choose", "example": "After a lot of thought, Rob went for the fish instead of the steak." },
+            { "verb": "hinge on", "definition": "depend completely on something", "example": "Moving to New Zealand next year hinges on us saving enough money." },
+            { "verb": "lean toward", "definition": "be more likely to choose one option than another", "example": "It's so hard to choose! I'm leaning toward the red sports car." },
+            { "verb": "sleep on", "definition": "wait until the next day before making a decision", "example": "Marie didn't know which new job to accept, so she decided to sleep on it." },
+            { "verb": "live with", "definition": "accept an unpleasant decision or situation", "example": "Shona regrets her decision to quit, but she's going to have to live with it." },
+            { "verb": "come down to", "definition": "depend on one point", "example": "We loved your plans for the new apartment block. But our decision came down to funding." },
+            { "verb": "bank on", "definition": "depend on", "example": "After so many failures, Stephen's banking on this new recipe to impress his guests." },
+            { "verb": "factor in", "definition": "take into consideration", "example": "We were sure our café would be a success, but forgot to factor in the local competition." },
+            { "verb": "settle on", "definition": "choose (after thinking about or discussing it)", "example": "Can you tell us how you settled on a winner?" },
+            { "verb": "arrive at", "definition": "reach, come to a decision", "example": "We arrived at our decision after looking carefully at each of the paintings." },
+            { "verb": "settle for", "definition": "agree to something although it is not what you first wanted", "example": "The workers wanted a 5% pay raise, but eventually settled for 3%." },
+            { "verb": "toy with", "definition": "consider, play with an idea", "example": "Yasmin has been toying with the idea of getting her hair cut short, but has never done it." },
+            { "verb": "weigh up", "definition": "consider positive and negative things before making a decision", "example": "Paula weighed up her options before deciding which camera to buy." },
+            { "verb": "mull over", "definition": "think about something for some time before making a decision", "example": "Somrita has been mulling over which candidate to hire." },
+            { "verb": "bet on", "definition": "act on a hope or prediction", "example": "Ahmed's betting on it being a hot summer this year so he's bought an ice-cream van." },
+            { "verb": "narrow down", "definition": "reduce the number of choices", "example": "We have narrowed down our list of potential homes to two properties." },
+            { "verb": "opt out (of)", "definition": "choose not to do something", "example": "Sonia opted out of the boat trip. She always gets sea sick." },
+            { "verb": "pick out", "definition": "choose carefully from a group", "example": "Archie picked out the toy he wanted for his birthday." }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": 48,
+      "title": "Making Mistakes",
+      "sections": [
+        {
+          "section_id": "48.1",
+          "title": "Making Mistakes",
+          "verbs": [
+            { "verb": "live down", "definition": "have people forget about an embarrassing mistake you made", "example": "I'll never live down the time I dropped Erin's birthday cake in the middle of her party." },
+            { "verb": "slip up", "definition": "make a mistake", "example": "Coralie's graph didn't make sense, so she looked through the data again to see where she'd slipped up." },
+            { "verb": "miss out", "definition": "forget to include someone or something in an activity", "example": "Wang thought he'd bought everyone a drink until he noticed he'd missed Ellie out." },
+            { "verb": "rub in", "definition": "make someone feel worse about a mistake or failure", "example": "When Juan missed the penalty, his teammates rubbed it in by laughing at him." },
+            { "verb": "let down", "definition": "fail to keep a promise or fail to meet someone's expectations", "example": "I was relying on Selma to bring candles for the cake, but she let me down." },
+            { "verb": "land in", "definition": "get into a bad situation", "example": "Tariq landed himself in trouble when he forgot to do his homework." },
+            { "verb": "leave behind", "definition": "forget to take something with you", "example": "Enzo went back to the café when he realized he'd left his wallet behind." },
+            { "verb": "jump out at", "definition": "be obvious to someone", "example": "The spelling mistake in Juanita's homework jumped out at me." },
+            { "verb": "cross out", "definition": "draw a line or lines through a word", "example": "I crossed out the misspelled word and wrote it again correctly." },
+            { "verb": "mix up (with)", "definition": "accidentally mistake one thing for something else", "example": "When Chris got home from work, he realized that he had mixed his bag up with Simon's." }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": 49,
+      "title": "Accidents and Damage",
+      "sections": [
+        {
+          "section_id": "49.1",
+          "title": "Accidents",
+          "verbs": [
+            { "verb": "mess up", "definition": "make something untidy or unattractive, do something incorrectly", "example": "The hairdresser has completely messed up Kira's hair. She's furious about it." },
+            { "verb": "break off", "definition": "remove by force", "example": "Chrissy accidentally broke the handle off the antique vase." },
+            { "verb": "come apart", "definition": "fall to pieces", "example": "The old book came apart in the librarian's hands." },
+            { "verb": "knock over", "definition": "hit something and make it fall to the ground", "example": "The dog knocked over the plant pot as it chased the cat." },
+            { "verb": "trip over", "definition": "hit something with your foot and fall to the ground as a result", "example": "Kira tripped over one of her son's toys." },
+            { "verb": "fall off", "definition": "fall to the ground from a higher point or surface", "example": "Rodrigo slammed the door so hard that the pictures fell off the wall." },
+            { "verb": "fall over", "definition": "fall to the ground from a standing position", "example": "When Omar fell over in the backyard, his dad rushed over to help him." },
+            { "verb": "fall down", "definition": "be in a very bad state, fall to the ground (about a building)", "example": "The old manor house Andrei wants to buy looks as if it's about to fall down." }
+          ]
+        },
+        {
+          "section_id": "49.2",
+          "title": "Damage",
+          "verbs": [
+            { "verb": "tear apart", "definition": "destroy by tearing into pieces", "example": "When I got home, I found that the dog had torn a cushion apart." },
+            { "verb": "tear up", "definition": "break something into pieces by ripping it", "example": "After her favorite band split up, Jo tore up all her posters of them." },
+            { "verb": "smash up", "definition": "break something into pieces", "example": "Colin accidentally drove into a tree and smashed up his van." },
+            { "verb": "clog up", "definition": "become blocked", "example": "The drain was clogged up with old leaves, so I had to unblock it." },
+            { "verb": "wear out", "definition": "use something so much that it cannot be used anymore", "example": "My son has worn out another pair of shoes!" },
+            { "verb": "take apart", "definition": "disassemble something, separate it into its parts", "example": "Jorge took the old clock apart to fix it." },
+            { "verb": "fall apart", "definition": "break into pieces (because of age or bad quality)", "example": "Sanjay's old car is falling apart. He's had it since he was a teenager." },
+            { "verb": "fall out (of)", "definition": "fall from an enclosed place", "example": "David's wallet fell out of his pocket while he was running for the bus." },
+            { "verb": "fall in", "definition": "crumble and fall to the ground", "example": "After the leak in the room above, it looked like the ceiling might fall in." }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": 50,
+      "title": "Problems and Solutions",
+      "sections": [
+        {
+          "section_id": "50.1",
+          "title": "Problems and Solutions",
+          "verbs": [
+            { "verb": "come up", "definition": "happen unexpectedly", "example": "Sorry, I'll be home late tonight. Something's come up." },
+            { "verb": "come up against", "definition": "encounter difficulties", "example": "The proposals for a new highway have come up against a lot of local opposition." },
+            { "verb": "hang over", "definition": "be a source of worry", "example": "It was very hard for Somrita and her friends to relax with their final exams hanging over them." },
+            { "verb": "contend with", "definition": "deal with difficulties or opposition", "example": "While climbing the mountain, we had to contend with strong winds and heavy rain." },
+            { "verb": "crop up", "definition": "happen (often unexpectedly)", "example": "A number of problems have cropped up with the new printer. We need to get someone to fix it." },
+            { "verb": "break down", "definition": "make something easier to understand by separating it into smaller parts", "example": "Writing your thesis is easier if you break it down into small sections." },
+            { "verb": "turn out", "definition": "happen differently than expected", "example": "I thought the event was going to be a disaster, but it turned out alright." },
+            { "verb": "deal with", "definition": "manage or solve a problem", "example": "Owen is great with customers. He deals with their complaints fairly, and never loses his temper." },
+            { "verb": "clear up", "definition": "solve a problem, resolve an argument", "example": "Ben and I cleared up our disagreement when we realized it was all just a misunderstanding." },
+            { "verb": "brush aside", "definition": "treat a problem as unimportant, refuse to take it seriously", "example": "Bitna told Danny she was nervous about her presentation, but he just brushed it aside." },
+            { "verb": "sort out", "definition": "find a solution to a problem", "example": "Clare and Wei Ting had to sort out a problem with their experiment." },
+            { "verb": "thrash out", "definition": "discuss a problem to find a solution", "example": "They stayed up late to thrash it out and find a solution." },
+            { "verb": "work around", "definition": "avoid an obstacle that is stopping you from achieving something", "example": "Sawad's computer crashed, but she worked around it by using pen and paper instead." },
+            { "verb": "think through", "definition": "consider something methodically", "example": "Kavitha didn't know why her equation was wrong, so she thought it through carefully." },
+            { "verb": "get around", "definition": "avoid or solve a problem or obstacle", "example": "Anton had run out of green paint, but he managed to get around it." },
+            { "verb": "figure out", "definition": "find a solution to a problem", "example": "It's taken me all evening to figure out how to turn on this new television." },
+            { "verb": "check out", "definition": "find out if someone or something is acceptable", "example": "Femmy's thinking of moving to a new part of town, so she went to check out the area." },
+            { "verb": "call in", "definition": "ask a skilled person to deal with a problem for you", "example": "One of the pipes was leaking, so we called in a plumber to fix it." },
+            { "verb": "turn to", "definition": "go to someone for help or advice", "example": "Whenever Gitanjali has a problem, she turns to her grandmother for advice." }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": 51,
+      "title": "Secrets and Surprises",
+      "sections": [
+        {
+          "section_id": "51.1",
+          "title": "Secrets",
+          "verbs": [
+            { "verb": "keep from", "definition": "not tell someone something", "example": "Jessica has been keeping the name of her new boyfriend from me." },
+            { "verb": "give away", "definition": "reveal a secret", "example": "Paolo has prepared a new sculpture for the exhibition. I've asked him what it is, but he's not giving anything away!" },
+            { "verb": "cotton on (to) (UK)", "definition": "begin to understand or realize something", "example": "I only cottoned onto the fact that Lisa and Pete were dating when I saw them at the ice rink together." }
+          ]
+        },
+        {
+          "section_id": "51.2",
+          "title": "Surprises",
+          "verbs": [
+            { "verb": "burst in(to)", "definition": "enter a room or building suddenly", "example": "We were all eating our dinner when the dog burst into the room." },
+            { "verb": "bowl over", "definition": "amaze or impress someone", "example": "I was bowled over when Nadia announced that she had been accepted into dance school." },
+            { "verb": "blow away", "definition": "impress very strongly (informal)", "example": "Kamal was blown away by Jose's account of his adventures in the Amazon." },
+            { "verb": "creep up on", "definition": "approach someone quietly to surprise them", "example": "Mollie crept up on her grandfather while he slept in the garden." },
+            { "verb": "spring on", "definition": "announce something without warning", "example": "My best friend sprang it on me last night that she's moving to Canada." },
+            { "verb": "take in", "definition": "understand or accept some news or information", "example": "The surprising news was a lot to take in." },
+            { "verb": "blurt out", "definition": "say something suddenly, without thinking about it", "example": "My little sister blurted out to Dad that we'd organized a surprise party for him. She can't keep a secret." },
+            { "verb": "slip out", "definition": "say something by mistake", "example": "I didn't mean to tell the team that it was your birthday. It just slipped out." },
+            { "verb": "sink in", "definition": "be fully understood", "example": "Clara can't believe she passed her medical exams. It's going to take a while for it to sink in." },
+            { "verb": "hush up", "definition": "conceal the truth", "example": "The movie star tried to hush up the fact that she had a new boyfriend." },
+            { "verb": "play along", "definition": "pretend something is true or that you believe in something", "example": "My daughter often pretends to be a dinosaur. We all have to play along with her." },
+            { "verb": "wake up to", "definition": "realize the importance of something", "example": "People have woken up to the fact that we need to look after the environment." },
+            { "verb": "bump into", "definition": "meet someone without expecting it", "example": "While I was on vacation in Venice, I bumped into one of my cousins. I couldn't believe it." },
+            { "verb": "stumble upon", "definition": "find by chance", "example": "I was shopping at the antiques market when I stumbled upon a valuable necklace." },
+            { "verb": "take aback", "definition": "surprise or shock someone", "example": "I was taken aback when Tia and Juan told me they were getting married." }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": 52,
+      "title": "Phrasal Verbs with 'Come', 'Make', and 'Do'",
+      "sections": [
+        {
+          "section_id": "52.1",
+          "title": "Phrasal Verbs with 'Come'",
+          "verbs": [
+            { "verb": "come about", "definition": "happen (often without planning)", "example": "Hetty's career as a musician came about after a producer saw her performing." },
+            { "verb": "come up", "definition": "appear (on screen)", "example": "When I tried to log into my account, a message came up saying that my account had been blocked." },
+            { "verb": "come along", "definition": "appear, become available, start to exist", "example": "Staying in touch with friends became much easier once the internet came along." },
+            { "verb": "come out (of)", "definition": "leave a room, building, or enclosed space", "example": "Ben and Eleanor came out of the toy store with presents for their grandchildren." },
+            { "verb": "come across", "definition": "move across a room, space, country, etc.", "example": "Natsuo came across the room to speak to us." },
+            { "verb": "come under", "definition": "experience something negative (such as criticism, threat, or attack)", "example": "The company has come under attack for its high carbon emissions." },
+            { "verb": "come on", "definition": "start (about a TV program)", "example": "Derek sat down in front of the TV when the ten o'clock news came on." },
+            { "verb": "come through", "definition": "arrive (about news or information)", "example": "My daughter's still waiting for her results to come through. She's so nervous." },
+            { "verb": "come off", "definition": "be removed", "example": "No matter how much we clean it, this graffiti won't come off the wall." }
+          ]
+        },
+        {
+          "section_id": "52.2",
+          "title": "Phrasal Verbs with 'Make'",
+          "verbs": [
+            { "verb": "make up", "definition": "constitute, form something", "example": "Lots of talented people make up our circus's team of acrobats." },
+            { "verb": "make out", "definition": "manage to see, hear, or understand", "example": "Luanne struggled to make out what the train conductor was saying." },
+            { "verb": "make for", "definition": "go toward a place", "example": "With hot weather expected, thousands of tourists made for the coast." },
+            { "verb": "make off with", "definition": "escape with something", "example": "We were about to eat dinner when the dog made off with the leg of lamb." },
+            { "verb": "make of", "definition": "have an opinion of something", "example": "When I asked Kim what she made of Toshi's new novel, she said she loved it." }
+          ]
+        },
+        {
+          "section_id": "52.3",
+          "title": "Phrasal Verbs with 'Do'",
+          "verbs": [
+            { "verb": "do up", "definition": "improve, renovate", "example": "Emily is doing up her house at the moment. It's going to look great when she's finished." },
+            { "verb": "do away with", "definition": "abolish, no longer need or use", "example": "With so many people using bank cards, we may be able to do away with cash in the future." },
+            { "verb": "do about", "definition": "do something to solve a problem", "example": "The council needs to decide what it's going to do about the city's litter problem." },
+            { "verb": "do over (US)", "definition": "do something again", "example": "Riya was very disappointed with her wedding cake, and insisted it be done over." }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": 53,
+      "title": "Phrasal Verbs with 'Get' and 'Set'",
+      "sections": [
+        {
+          "section_id": "53.1",
+          "title": "Phrasal Verbs with 'Get'",
+          "verbs": [
+            { "verb": "get over with", "definition": "complete a task you don't want to do", "example": "Let's just clean the kitchen now and get it over with." },
+            { "verb": "get up (from)", "definition": "stand up (from sitting)", "example": "Claude got up from his chair and went to make some more tea." },
+            { "verb": "get down to", "definition": "start to focus on a task", "example": "It's almost eleven o'clock. We should get down to work." },
+            { "verb": "get in", "definition": "bring something inside", "example": "Can you help me get the shopping in, please?" },
+            { "verb": "get around", "definition": "avoid an obstacle, deal with a problem", "example": "Chad's oven had broken, but he got around it by using the microwave instead." },
+            { "verb": "get over", "definition": "find a way over an obstacle", "example": "Cheryl's dog keeps getting over the fence into the neighbor's backyard." },
+            { "verb": "get out (of)", "definition": "remove something (from a bag, box, room, etc.)", "example": "Lee got his fishing rod out of the garage and carried it to his car." },
+            { "verb": "get across", "definition": "communicate a message successfully", "example": "Ramona always gets her message across, even when she's explaining complicated scientific theories." },
+            { "verb": "get down (from)", "definition": "retrieve something from a higher position", "example": "Glen climbed the ladder to get the cat down from the tree." },
+            { "verb": "get together", "definition": "organize information or belongings", "example": "Before accusing Simon, the police had to get their facts together." },
+            { "verb": "get to", "definition": "arrive at", "example": "As soon as we got to the ski resort, we went straight to the slopes." },
+            { "verb": "get back at", "definition": "get revenge on somebody", "example": "After Gia was rude to me, I got back at her by not inviting her to my wedding." }
+          ]
+        },
+        {
+          "section_id": "53.2",
+          "title": "Phrasal Verbs with 'Set'",
+          "verbs": [
+            { "verb": "set in", "definition": "begin (about something unpleasant that may last a long time)", "example": "As Martin walked home late at night, fear began to set in." },
+            { "verb": "set off", "definition": "activate, cause something to start happening", "example": "Harry burned the dinner and set off the smoke detector." },
+            { "verb": "set back", "definition": "cost time, money, or progress", "example": "The bad weather has set us back by two weeks. We won't finish building the bridge until November." },
+            { "verb": "set apart (from)", "definition": "make someone or something special in comparison to others", "example": "Lee's speed sets him apart from the other players in the tournament." },
+            { "verb": "set up", "definition": "start (a business)", "example": "After leaving school, Romesh set up his own business selling surfboards." },
+            { "verb": "set on", "definition": "order someone or something to attack someone", "example": "The security guard threatened to set his dog on us if we didn't leave immediately." },
+            { "verb": "set out", "definition": "explain information in detail", "example": "Mary set out all her qualifications and experience in her resume." }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": 54,
+      "title": "Phrasal Verbs with 'Go'",
+      "sections": [
+        {
+          "section_id": "54.1",
+          "title": "Phrasal Verbs with 'Go'",
+          "verbs": [
+            { "verb": "go about", "definition": "start tackling a problem or task", "example": "How are you going to go about fixing this car?" },
+            { "verb": "go after", "definition": "follow or chase someone", "example": "As soon as I realized Orla had forgotten her bag, I went after her." },
+            { "verb": "go over", "definition": "review", "example": "James went over the company's accounts to check for mistakes." },
+            { "verb": "go away", "definition": "disappear", "example": "After I got back from the dentist, it took a couple of hours for the pain to go away." },
+            { "verb": "go against", "definition": "be the opposite of what you wish or believe", "example": "Buying water in plastic bottles goes against my principles." },
+            { "verb": "go in(to)", "definition": "enter a building, room, or enclosed space", "example": "A team of firefighters went into the burning building." },
+            { "verb": "go out (of)", "definition": "leave a room, building, or enclosed space", "example": "As soon as the teacher had gone out of the room, the children began misbehaving." },
+            { "verb": "go around", "definition": "be enough for everyone", "example": "Help yourself to some cakes. There are enough to go around." },
+            { "verb": "go through", "definition": "experience something", "example": "Malachai went through a period of unhappiness after his dog died." },
+            { "verb": "go on", "definition": "happen", "example": "There's something going on next door. I can hear loud music." },
+            { "verb": "go without", "definition": "live without something", "example": "Parents often have to go without sleep when they have a new baby." },
+            { "verb": "go along", "definition": "continue to do something", "example": "Cath couldn't find the recipe, so she had to make it up as she went along." },
+            { "verb": "go for", "definition": "try to achieve something", "example": "Kelly's decided to go for the job at the software company. It's very well paid." },
+            { "verb": "go toward", "definition": "contribute to", "example": "All the money we make today will go toward funding the new school library." },
+            { "verb": "go down", "definition": "move from a higher position to a lower one", "example": "Rob and I sat on the beach watching the sun go down." },
+            { "verb": "go ahead (with)", "definition": "decide to do something (after consideration or official approval)", "example": "Even though it was a cloudy day, Ramon decided to go ahead with the picnic." },
+            { "verb": "go back", "definition": "know someone for a long time", "example": "Michelle and I go back years. I've known her since kindergarten." },
+            { "verb": "go by", "definition": "be called by a certain name", "example": "My new trainer is called Zachariah, though he usually goes by Zac." },
+            { "verb": "go up", "definition": "move from a lower position to a higher one", "example": "The children watched the hot-air balloon slowly go up into the air." }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": 55,
+      "title": "Phrasal Verbs with 'Put', 'Take', and 'Give'",
+      "sections": [
+        {
+          "section_id": "55.1",
+          "title": "Phrasal Verbs with 'Put'",
+          "verbs": [
+            { "verb": "put down", "definition": "place something you have been carrying on the ground or a surface", "example": "The deliveryman put the parcel down before knocking on the door." },
+            { "verb": "put on", "definition": "place something onto a surface", "example": "Liam finished decorating the cake and put it on a stand." },
+            { "verb": "put behind", "definition": "forget about a bad experience", "example": "Angela is upset about her divorce, but she's trying to put it behind her." },
+            { "verb": "put off", "definition": "distract someone from focusing", "example": "Can you please be quiet? You're putting me off!" },
+            { "verb": "put through", "definition": "make someone experience something", "example": "The fitness instructor put the class through a tough training program." },
+            { "verb": "put out", "definition": "broadcast important information", "example": "Forecasters have put out a weather warning for heavy rain and strong winds." },
+            { "verb": "put together", "definition": "build, assemble", "example": "Cassie followed the instructions carefully to put her new wardrobe together." },
+            { "verb": "put up with", "definition": "tolerate something unpleasant", "example": "Scarlett had to put up with busy trains every day on her way to work." },
+            { "verb": "put up", "definition": "hang something on a wall", "example": "Nousha's room looked much nicer after she'd put up some pictures." },
+            { "verb": "put away", "definition": "return an object to its proper place", "example": "After finishing the gardening, Scott put his tools away." },
+            { "verb": "put back", "definition": "return an object to its original place", "example": "After painting the living room, Paul and Sally put all the furniture back." }
+          ]
+        },
+        {
+          "section_id": "55.2",
+          "title": "Phrasal Verbs with 'Take'",
+          "verbs": [
+            { "verb": "take aside", "definition": "take someone to a quieter place to tell them something in private", "example": "Amara took her mother aside to tell her that she was pregnant." },
+            { "verb": "take along (to)", "definition": "take someone or something with you", "example": "Jim's mother asked him to take his younger brother along to the skate park." },
+            { "verb": "take away", "definition": "remove something", "example": "The waste collectors came to take away the bags of trash." },
+            { "verb": "take down (from)", "definition": "get something from a higher place", "example": "Denise took a jar down from the shelf to give her dog a biscuit." },
+            { "verb": "take in", "definition": "carry something inside", "example": "Seeing the black clouds, Tim went outside to take the washing in." },
+            { "verb": "take off", "definition": "remove something from someone", "example": "The police stopped the criminal and took the stolen money off him." },
+            { "verb": "take to", "definition": "start to like", "example": "Eliza has really taken to golf. She never thought she'd like it." },
+            { "verb": "take up (to)", "definition": "take someone or something to a higher level", "example": "The elevator took James up to the top floor of the building." }
+          ]
+        },
+        {
+          "section_id": "55.3",
+          "title": "Phrasal Verbs with 'Give'",
+          "verbs": [
+            { "verb": "give up", "definition": "stop doing something", "example": "Martha played the violin as a child, but gave it up when she left school." },
+            { "verb": "give out", "definition": "give something to people for free", "example": "The cafe on the high street is giving out free samples of their new cakes." },
+            { "verb": "give in", "definition": "agree to do something after some resistance", "example": "My son had been asking for an ice cream all day. I finally gave in and bought him one." },
+            { "verb": "give away", "definition": "give something to someone for free (rather than selling it)", "example": "Tom's moving to a smaller apartment so he's giving away some of his belongings." }
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": 56,
+      "title": "Exclamations",
+      "sections": [
+        {
+          "section_id": "56.1",
+          "title": "Exclamations",
+          "verbs": [
+            { "verb": "go away", "definition": "tell someone or something to leave you alone", "example": "Go away!" },
+            { "verb": "come on", "definition": "tell someone or something to follow you or to move faster", "example": "Come on!" },
+            { "verb": "get out", "definition": "tell someone to leave a room in an angry way", "example": "Get out!" },
+            { "verb": "look out", "definition": "warn someone about something they haven't noticed yet", "example": "Look out!" },
+            { "verb": "bring it on", "definition": "said when you're confident and ready to start doing something", "example": "Are you ready to start? Yes, bring it on!" },
+            { "verb": "fire away", "definition": "let someone know it is fine for them to start talking", "example": "Hey Vi, can I ask you something? Sure, fire away." },
+            { "verb": "come off it", "definition": "said to express disbelief at something someone has said", "example": "Come off it!" },
+            { "verb": "come in", "definition": "said when inviting someone into a room or building (especially your own home)", "example": "Hi Carolina! Come in." },
+            { "verb": "go ahead", "definition": "said when giving someone permission to do something", "example": "Do you mind if I sit here? Go ahead." }
+          ]
+        }
+      ]
+    }
+  ]
+}
