@@ -1,0 +1,459 @@
+{
+ "book ": "English for Everyone: Phrasal Verbs ",
+ "units ": [
+  {
+   "unit_id ": 1,
+   "title ": "People & Things ",
+   "exercises ": [
+    {
+     "exercise_id ": "1.3 ",
+     "title ": "Read the statements and mark the correct meaning ",
+     "type ": "multiple_choice ",
+     "example ": {
+      "prompt ": "Barney really looks up to his grandfather. ",
+      "options ": [
+       "He loves his grandfather. ",
+       "He admires his grandfather. ",
+       "He hates his grandfather. "
+      ],
+      "correct_answer ": "He admires his grandfather. "
+     },
+     "questions ": [
+      {
+       "id ": "1.3_q1 ",
+       "prompt ": "After the concert, everyone spilled out of the stadium. ",
+       "options ": [
+        "People entered the stadium together. ",
+        "People ran around the stadium together. ",
+        "People left the stadium in large numbers. "
+       ]
+      },
+      {
+       "id ": "1.3_q2 ",
+       "prompt ": "Toshiro's been buttering his brother up. ",
+       "options ": [
+        "He has been flattering him for a favor. ",
+        "He has been yelling at him. ",
+        "He has been arguing with him. "
+       ]
+      },
+      {
+       "id ": "1.3_q3 ",
+       "prompt ": "Sheila's arrogant neighbors look down on her. ",
+       "options ": [
+        "They think they are better than her. ",
+        "They think she is better than them. ",
+        "They think she is wonderful. "
+       ]
+      },
+      {
+       "id ": "1.3_q4 ",
+       "prompt ": "I came across an old portrait of my great-grandfather. ",
+       "options ": [
+        "I threw away the portrait. ",
+        "I found the portrait by chance. ",
+        "I looked for the portrait. "
+       ]
+      }
+     ]
+    },
+    {
+     "exercise_id ": "1.4 ",
+     "title ": "Match the pictures to the correct sentences ",
+     "type ": "match_pictures ",
+     "example ": {
+      "sentence ": "It was hard to part with my old car. ",
+      "correct_image_id ": "1.4_img_1 "
+     },
+     "images ": [
+      { "image_id ": "1.4_img_1 ", "path ": "/images/unit1/1.4_img_1.jpg " },
+      { "image_id ": "1.4_img_2 ", "path ": "/images/unit1/1.4_img_2.jpg " },
+      { "image_id ": "1.4_img_3 ", "path ": "/images/unit1/1.4_img_3.jpg " },
+      { "image_id ": "1.4_img_4 ", "path ": "/images/unit1/1.4_img_4.jpg " },
+      { "image_id ": "1.4_img_5 ", "path ": "/images/unit1/1.4_img_5.jpg " }
+     ],
+     "questions ": [
+      { "id ": "1.4_q2 ", "sentence ": "Jordan's aunts fuss over him when they visit. " },
+      { "id ": "1.4_q3 ", "sentence ": "I found it hard to fit in with the art class. " },
+      { "id ": "1.4_q4 ", "sentence ": "Nuwa gathered up the plates from the table. " },
+      { "id ": "1.4_q5 ", "sentence ": "Sandra was asking after you at the park. " }
+     ]
+    },
+    {
+     "exercise_id ": "1.5 ",
+     "title ": "Cross out the incorrect words in each sentence ",
+     "type ": "select_correct ",
+     "example ": {
+      "prompt ": "Hundreds of people packed [into / over / through] the town hall to watch the debate. ",
+      "options ": [ "into ", "over ", "through " ],
+      "correct_answer ": "into "
+     },
+     "questions ": [
+      { "id ": "1.5_q1 ", "prompt ": "Some of the older children have been [ganging / ganging / ganging] up on me and calling me names. ", "options ": [ "ganging ", "ganging ", "ganging " ] },
+      { "id ": "1.5_q2 ", "prompt ": "Ava lost her passport ages ago. It turned [out / on / up] when she was cleaning the living room. ", "options ": [ "out ", "on ", "up " ] },
+      { "id ": "1.5_q3 ", "prompt ": "Adi has got a temper. He [pivoted / turned / rotated in] on me the instant I suggested he buy a new suit. ", "options ": [ "pivoted ", "turned ", "rotated in " ] },
+      { "id ": "1.5_q4 ", "prompt ": "Mel lent Dave her lawnmower a month ago, and she finally got it [back / forward / down] from him. ", "options ": [ "back ", "forward ", "down " ] }
+     ]
+    },
+    {
+     "exercise_id ": "1.6 ",
+     "title ": "Write the correct phrasal verb next to its definition ",
+     "type ": "fill_blank ",
+     "example ": {
+      "prompt ": "retrieve something ",
+      "correct_answer ": "get back (from) "
+     },
+     "word_bank ": [ "get back (from) ", "turn up ", "watch over ", "turn on ", "wear down ", "pack into " ],
+     "questions ": [
+      { "id ": "1.6_q1 ", "prompt ": "be found (usually by accident) ", "blanks ": 1 },
+      { "id ": "1.6_q2 ", "prompt ": "make sure nothing bad happens to someone ", "blanks ": 1 },
+      { "id ": "1.6_q3 ", "prompt ": "attack someone without warning ", "blanks ": 1 },
+      { "id ": "1.6_q4 ", "prompt ": "convince someone to do what you want ", "blanks ": 1 },
+      { "id ": "1.6_q5 ", "prompt ": "fit into a place in large numbers ", "blanks ": 1 }
+     ]
+    },
+    {
+     "exercise_id ": "1.7 ",
+     "title ": "Listen to the audio and complete the sentences ",
+     "type ": "listen_and_fill_blank ",
+     "audio_url ": "/audio/unit1/1.7.mp3 ",
+     "example ": {
+      "prompt ": "Thousands of fans [1] [2] the stadium. ",
+      "correct_answer ": [ "flooded ", "into " ]
+     },
+     "questions ": [
+      { "id ": "1.7_q1 ", "prompt ": "Some of the older children have been [1] [2] on me and calling me names. ", "blanks ": 2 },
+      { "id ": "1.7_q2 ", "prompt ": "Mel lent Dave her lawnmower a month ago, and she finally [1] it [2] [3] him. ", "blanks ": 3 },
+      { "id ": "1.7_q3 ", "prompt ": "I got my son a puppy. After asking me for months, he finally [1] [2] [3]. ", "blanks ": 3 },
+      { "id ": "1.7_q4 ", "prompt ": "Hundreds of people [1] [2] the town hall to watch the debate. ", "blanks ": 2 },
+      { "id ": "1.7_q5 ", "prompt ": "Barney really [1] [2] [3] his grandfather. He loves listening to his stories. ", "blanks ": 3 }
+     ]
+    }
+   ]
+  },
+  {
+   "unit_id ": 2,
+   "title ": "Family & Pets ",
+   "exercises ": [
+    {
+     "exercise_id ": "2.3 ",
+     "title ": "Match the pictures to the correct sentences ",
+     "type ": "match_pictures ",
+     "example ": {
+      "sentence ": "My family pulled together when my father was unwell. ",
+      "correct_image_id ": "2.3_img_1 "
+     },
+     "images ": [
+      { "image_id ": "2.3_img_1 ", "path ": "/images/unit2/2.3_img_1.jpg " },
+      { "image_id ": "2.3_img_2 ", "path ": "/images/unit2/2.3_img_2.jpg " },
+      { "image_id ": "2.3_img_3 ", "path ": "/images/unit2/2.3_img_3.jpg " },
+      { "image_id ": "2.3_img_4 ", "path ": "/images/unit2/2.3_img_4.jpg " }
+     ],
+     "questions ": [
+      { "id ": "2.3_q2 ", "sentence ": "Olly's dog ran away last week while they were at the park. " },
+      { "id ": "2.3_q3 ", "sentence ": "My mother looks after my children while I'm at work. " },
+      { "id ": "2.3_q4 ", "sentence ": "I let the cat in when it started to rain. " }
+     ]
+    },
+    {
+     "exercise_id ": "2.4 ",
+     "title ": "Mark the sentences that are correct ",
+     "type ": "select_correct ",
+     "example ": {
+      "prompt ": "Select the correct sentence. ",
+      "options ": [
+       "My mother looks after my children while I'm at work. ",
+       "My mother looks over my children while I'm at work. "
+      ],
+      "correct_answer ": "My mother looks after my children while I'm at work. "
+     },
+     "questions ": [
+      { "id ": "2.4_q1 ", "prompt ": "Select the correct sentence. ", "options ": [ "After a few days, Olly's dog came back all by herself. ", "After a few days, Olly's dog came under all by herself. " ] },
+      { "id ": "2.4_q2 ", "prompt ": "Select the correct sentence. ", "options ": [ "Jasmine takes over her mother. They're very similar people. ", "Jasmine takes after her mother. They're very similar people. " ] },
+      { "id ": "2.4_q3 ", "prompt ": "Select the correct sentence. ", "options ": [ "I let the cat around every morning after I've woken up. ", "I let the cat out every morning after I've woken up. " ] },
+      { "id ": "2.4_q4 ", "prompt ": "Select the correct sentence. ", "options ": [ "Albert's parents named him after his great-grandfather. ", "Albert's parents named him behind his great-grandfather. " ] },
+      { "id ": "2.4_q5 ", "prompt ": "Select the correct sentence. ", "options ": [ "After traveling for a few years, Bill settled up and bought a house. ", "After traveling for a few years, Bill settled down and bought a house. " ] },
+      { "id ": "2.4_q6 ", "prompt ": "Select the correct sentence. ", "options ": [ "Colin lives on his son in a house at the edge of town. ", "Colin lives with his son in a house at the edge of town. " ] }
+     ]
+    },
+    {
+     "exercise_id ": "2.5 ",
+     "title ": "Fill in the gaps using the words in the panel ",
+     "type ": "fill_blank ",
+     "example ": {
+      "prompt ": "Olly's dog ran [1] last week while they were at the park. ",
+      "correct_answer ": "away "
+     },
+     "word_bank ": [ "to ", "down ", "away ", "on ", "apart ", "out ", "in " ],
+     "questions ": [
+      { "id ": "2.5_q1 ", "prompt ": "Lisa puts her rabbit [1] its cage each evening before bed. ", "blanks ": 1 },
+      { "id ": "2.5_q2 ", "prompt ": "Will and Joe are identical twins. It's almost impossible to tell them [1]. ", "blanks ": 1 },
+      { "id ": "2.5_q3 ", "prompt ": "After traveling for a few years, Bill settled [1] and bought a house next door to his parents. ", "blanks ": 1 },
+      { "id ": "2.5_q4 ", "prompt ": "Liam gets [1] very well with his elder sister. They're always laughing together. ", "blanks ": 1 },
+      { "id ": "2.5_q5 ", "prompt ": "Fiona's cat doesn't like strangers, but he's warming [1] Dan. ", "blanks ": 1 },
+      { "id ": "2.5_q6 ", "prompt ": "Jenny's grown [1] of her old toys, she prefers playing video games now. ", "blanks ": 1 }
+     ]
+    },
+    {
+     "exercise_id ": "2.6 ",
+     "title ": "Listen to the audio and complete the sentences ",
+     "type ": "listen_and_fill_blank ",
+     "audio_url ": "/audio/unit2/2.6.mp3 ",
+     "example ": {
+      "prompt ": "Sam wants to be a pilot when he [1] [2]. ",
+      "correct_answer ": [ "grows ", "up " ]
+     },
+     "questions ": [
+      { "id ": "2.6_q1 ", "prompt ": "Will and Joe are identical twins. It's almost impossible to [1] them [2]. ", "blanks ": 2 },
+      { "id ": "2.6_q2 ", "prompt ": "Lisa [1] her rabbit [2] its cage each evening before bed. ", "blanks ": 2 },
+      { "id ": "2.6_q3 ", "prompt ": "Jasmine [1] [2] her mother. They're very similar people. ", "blanks ": 2 },
+      { "id ": "2.6_q4 ", "prompt ": "I [1] the cat [2] every morning after I've woken up. ", "blanks ": 2 },
+      { "id ": "2.6_q5 ", "prompt ": "Jenny's [1] [2] of her old toys, she prefers playing video games now. ", "blanks ": 2 }
+     ]
+    }
+   ]
+  },
+  {
+   "unit_id ": 3,
+   "title ": "Friendships ",
+   "exercises ": [
+    {
+     "exercise_id ": "3.3 ",
+     "title ": "Listen to the audio, then number the sentences in the order you hear them ",
+     "type ": "listen_and_number_sentences ",
+     "audio_url ": "/audio/unit3/3.3.mp3 ",
+     "example ": {
+      "item_id ": "C ",
+      "text ": "Our shared interest in music has really brought us together. ",
+      "correct_order ": 1
+     },
+     "items ": [
+      { "id ": "A ", "text ": "Robin asked Helen out yesterday. They're going to the movies together. " },
+      { "id ": "B ", "text ": "I think Pierre has fallen for Clara. Have you seen how he looks at her? " },
+      { "id ": "C ", "text ": "Our shared interest in music has really brought us together. " },
+      { "id ": "D ", "text ": "Carlos and Mia separated a few months ago, but they recently got back together. " },
+      { "id ": "E ", "text ": "After a huge argument, Maria and Pablo decided to break up. " },
+      { "id ": "F ", "text ": "Although I haven't seen Zaira for many years, I always hear from her on my birthday. " }
+     ]
+    },
+    {
+     "exercise_id ": "3.4 ",
+     "title ": "Fill in the gaps, putting the words in the correct order ",
+     "type ": "word_order ",
+     "example ": {
+      "prompt ": "After a huge argument, Maria and Pablo decided [1] [2] [3]. ",
+      "correct_answer ": [ "to ", "break ", "up " ]
+     },
+     "questions ": [
+      { "id ": "3.4_q1 ", "prompt ": "My brother [1] [2] [3] with a woman who works at his office. ", "word_bank ": [ "me ", "up ", "set " ] },
+      { "id ": "3.4_q2 ", "prompt ": "Jack and Ula [1] [2] [3] each other. They've been together for 50 years. ", "word_bank ": [ "really ", "care ", "for " ] },
+      { "id ": "3.4_q3 ", "prompt ": "They started [1] [2] [3] each other when they were at school. ", "word_bank ": [ "going ", "out ", "with " ] },
+      { "id ": "3.4_q4 ", "prompt ": "Misha [1] [2] Colin when he decided to quit college. ", "word_bank ": [ "by ", "stood " ] }
+     ]
+    },
+    {
+     "exercise_id ": "3.5 ",
+     "title ": "Match the definitions to the correct phrasal verbs ",
+     "type ": "matching ",
+     "example ": {
+      "prompt ": "start loving someone, fall in love ",
+      "correct_answer ": "fall for "
+     },
+     "prompts ": [
+      { "id ": "3.5_def1 ", "text ": "like something or someone less " },
+      { "id ": "3.5_def2 ", "text ": "create a close relationship " },
+      { "id ": "3.5_def3 ", "text ": "slowly come to an end " },
+      { "id ": "3.5_def4 ", "text ": "finish with " },
+      { "id ": "3.5_def5 ", "text ": "arrange a date for someone else " },
+      { "id ": "3.5_def6 ", "text ": "slowly become less close " },
+      { "id ": "3.5_def7 ", "text ": "love someone or like them very much " }
+     ],
+     "matches ": [ "fizzle out ", "go off ", "bring together ", "fall for ", "set up ", "drift apart ", "care for ", "finish with " ]
+    },
+    {
+     "exercise_id ": "3.6 ",
+     "title ": "Look at the pictures and complete the sentences using phrasal verbs ",
+     "type ": "fill_blank_with_images ",
+     "example ": {
+      "prompt ": "Katia and I dated for a few weeks, but our relationship [1] [2]. ",
+      "correct_answer ": [ "fizzled ", "out " ]
+     },
+     "images ": [
+      { "image_id ": "3.6_img_1 ", "path ": "/images/unit3/3.6_img_1.jpg " },
+      { "image_id ": "3.6_img_2 ", "path ": "/images/unit3/3.6_img_2.jpg " },
+      { "image_id ": "3.6_img_3 ", "path ": "/images/unit3/3.6_img_3.jpg " },
+      { "image_id ": "3.6_img_4 ", "path ": "/images/unit3/3.6_img_4.jpg " },
+      { "image_id ": "3.6_img_5 ", "path ": "/images/unit3/3.6_img_5.jpg " }
+     ],
+     "questions ": [
+      { "id ": "3.6_q1 ", "prompt ": "My best friends and I have [1] [2] since high school. ", "blanks ": 2 },
+      { "id ": "3.6_q2 ", "prompt ": "For our first date, Phil [1] [2] [3] to an expensive restaurant. ", "blanks ": 3 },
+      { "id ": "3.6_q3 ", "prompt ": "Bernadette [1] [2] Martha that she was in love with Pavel. ", "blanks ": 2 },
+      { "id ": "3.6_q4 ", "prompt ": "Luisa has [1] [2] [3] Ben. He's very upset. ", "blanks ": 3 },
+      { "id ": "3.6_q5 ", "prompt ": "Ken [1] [2] Cath when her restaurant went bankrupt. ", "blanks ": 2 }
+     ]
+    }
+   ]
+  },
+  {
+   "unit_id ": 4,
+   "title ": "Visiting People ",
+   "exercises ": [
+    {
+     "exercise_id ": "4.3 ",
+     "title ": "Listen to the audio and mark the phrasal verbs you hear ",
+     "type ": "listen_and_select ",
+     "audio_url ": "/audio/unit4/4.3.mp3 ",
+     "example ": {
+      "options ": [ "come into ", "pop in " ],
+      "correct_answer ": "come into "
+     },
+     "questions ": [
+      { "id ": "4.3_q1 ", "options ": [ "show around ", "have over " ] },
+      { "id ": "4.3_q2 ", "options ": [ "invite along ", "turn up " ] },
+      { "id ": "4.3_q3 ", "options ": [ "show out ", "stop off " ] },
+      { "id ": "4.3_q4 ", "options ": [ "snoop around ", "swing by " ] },
+      { "id ": "4.3_q5 ", "options ": [ "drop in ", "stay over " ] }
+     ]
+    },
+    {
+     "exercise_id ": "4.4 ",
+     "title ": "Read the statements and mark the correct meaning ",
+     "type ": "multiple_choice ",
+     "example ": {
+      "prompt ": "I popped in to see Brian on Saturday morning. ",
+      "options ": [ "I called Brian. ", "I visited Brian at his home. ", "I invited Brian to my home. " ],
+      "correct_answer ": "I visited Brian at his home. "
+     },
+     "questions ": [
+      { "id ": "4.4_q1 ", "prompt ": "Angelo turned up at my house at 6am. ", "options ": [ "He arrived at 6am. ", "He left at 6am. ", "He fell asleep at 6am. " ] },
+      { "id ": "4.4_q2 ", "prompt ": "They showed me around their beautiful home. ", "options ": [ "They asked me to leave. ", "They asked me to come in. ", "They gave me a tour. " ] },
+      { "id ": "4.4_q3 ", "prompt ": "We'd like to invite you over for a barbecue. ", "options ": [ "We'd like you to come to our home. ", "We'd like you to call us. ", "We'd like you to host a barbecue. " ] },
+      { "id ": "4.4_q4 ", "prompt ": "Liam dropped in for a cup of coffee and a chat. ", "options ": [ "He dropped coffee on himself. ", "He visited me at my home. ", "He took me out for coffee. " ] },
+      { "id ": "4.4_q5 ", "prompt ": "Mason and Emily brought the kids along. ", "options ": [ "They took their kids away. ", "They left their kids behind. ", "They brought their kids with them. " ] }
+     ]
+    },
+    {
+     "exercise_id ": "4.5 ",
+     "title ": "Match the beginnings of the sentences to the correct endings ",
+     "type ": "matching ",
+     "example ": {
+      "prompt ": "Following the interview, ",
+      "correct_answer ": "the secretary showed Connor out. "
+     },
+     "prompts ": [
+      { "id ": "4.5_def1 ", "text ": "On her way home from the gym, " },
+      { "id ": "4.5_def2 ", "text ": "My father came into the house " },
+      { "id ": "4.5_def3 ", "text ": "Omar told us to come over " },
+      { "id ": "4.5_def4 ", "text ": "After chatting on the doorstep, " },
+      { "id ": "4.5_def5 ", "text ": "We ended up staying over " },
+      { "id ": "4.5_def6 ", "text ": "While everyone was in the garden, " }
+     ],
+     "matches ": [
+      "Miriam stopped off at the supermarket. ",
+      "and took off his coat. ",
+      "any time after 2pm. ",
+      "Malik invited me in. ",
+      "at Beth and Omar's house. ",
+      "I found Klaus snooping around inside. "
+     ]
+    },
+    {
+     "exercise_id ": "4.6 ",
+     "title ": "Rewrite the sentences, correcting the errors ",
+     "type ": "error_correction ",
+     "example ": {
+      "original_sentence ": "Yesterday afternoon, Liam dropped out for a cup of coffee and a chat. ",
+      "incorrect_word ": "out ",
+      "correct_answer ": "in "
+     },
+     "questions ": [
+      { "id ": "4.6_q1 ", "original_sentence ": "My new neighbors, Kaito and Leiko, had me under for dinner last night. ", "incorrect_word ": "under " },
+      { "id ": "4.6_q2 ", "original_sentence ": "We chatted for hours, and he suggested I stick up for dinner. ", "incorrect_word ": "up " },
+      { "id ": "4.6_q3 ", "original_sentence ": "On our way home from the beach, we called out to see Grandma. ", "incorrect_word ": "out " },
+      { "id ": "4.6_q4 ", "original_sentence ": "Omar told us to come above any time after 2pm. ", "incorrect_word ": "above " },
+      { "id ": "4.6_q5 ", "original_sentence ": "While you're in town, try to swing off. It would be good to see you. ", "incorrect_word ": "off " }
+     ]
+    }
+   ]
+  },
+  {
+   "unit_id ": 5,
+   "title ": "Socializing ",
+   "exercises ": [
+    {
+     "exercise_id ": "5.3 ",
+     "title ": "Cross out the incorrect words in each sentence ",
+     "type ": "select_correct ",
+     "example ": {
+      "prompt ": "Chris spends most weekends hanging [up on / out with / in on] his friends. ",
+      "options ": [ "up ", "on ", "out ", "with ", "in ", "on " ],
+      "correct_answer ": "out with "
+     },
+     "questions ": [
+      { "id ": "5.3_q1 ", "prompt ": "Amara let her little sister tag [along / about / above] when she went to the ice rink. ", "options ": [ "along ", "about ", "above " ] },
+      { "id ": "5.3_q2 ", "prompt ": "Ella likes to get [under / together / on] with her friends at the ice cream parlor. ", "options ": [ "under ", "together ", "on " ] },
+      { "id ": "5.3_q3 ", "prompt ": "I hate to tear you [out / away / up], but we're going to miss the last train. ", "options ": [ "out ", "away ", "up " ] },
+      { "id ": "5.3_q4 ", "prompt ": "Katie asked Lisa if she wanted to come [about / on / out] to play. ", "options ": [ "about ", "on ", "out " ] },
+      { "id ": "5.3_q5 ", "prompt ": "Joe suddenly took [off / up / in] without saying where he was going. ", "options ": [ "off ", "up ", "in " ] }
+     ]
+    },
+    {
+     "exercise_id ": "5.4 ",
+     "title ": "Fill in the gaps using the words in the panel to create phrasal verbs ",
+     "type ": "fill_blank ",
+     "example ": {
+      "prompt ": "Neil was turned [1] the nightclub because he was wearing casual clothes. ",
+      "correct_answer ": "away from "
+     },
+     "word_bank ": [ "along ", "up ", "away from ", "out of ", "around ", "off to ", "in " ],
+     "questions ": [
+      { "id ": "5.4_q1 ", "prompt ": "Charlie stormed [1] the store when the manager refused to give him a refund. ", "blanks ": 1 },
+      { "id ": "5.4_q2 ", "prompt ": "As I was leaving for the art exhibition, I asked Joe if he wanted to come [1]. ", "blanks ": 1 },
+      { "id ": "5.4_q3 ", "prompt ": "Lots of guests were milling [1] waiting for Raj to make his speech. ", "blanks ": 1 },
+      { "id ": "5.4_q4 ", "prompt ": "Vincent and Maya decided to stay [1]. They ordered pizza and watched a movie. ", "blanks ": 1 },
+      { "id ": "5.4_q5 ", "prompt ": "We headed [1] the beach early because we wanted to avoid the crowds. ", "blanks ": 1 },
+      { "id ": "5.4_q6 ", "prompt ": "Once a year, my school friends and I go out for a meal together to catch [1]. ", "blanks ": 1 }
+     ]
+    },
+    {
+     "exercise_id ": "5.5 ",
+     "title ": "Listen to the audio and match the images to the correct phrasal verbs ",
+     "type ": "listen_and_match ",
+     "audio_url ": "/audio/unit5/5.5.mp3 ",
+     "example ": {
+      "image_id ": "5.5_img_1 ",
+      "correct_answer ": "shoot off "
+     },
+     "images ": [
+      { "image_id ": "5.5_img_1 ", "path ": "/images/unit5/5.5_img_1.jpg " },
+      { "image_id ": "5.5_img_2 ", "path ": "/images/unit5/5.5_img_2.jpg " },
+      { "image_id ": "5.5_img_3 ", "path ": "/images/unit5/5.5_img_3.jpg " },
+      { "image_id ": "5.5_img_4 ", "path ": "/images/unit5/5.5_img_4.jpg " }
+     ],
+     "questions ": [
+      { "id ": "5.5_q2 ", "image_id ": "5.5_img_2 " },
+      { "id ": "5.5_q3 ", "image_id ": "5.5_img_3 " },
+      { "id ": "5.5_q4 ", "image_id ": "5.5_img_4 " }
+     ],
+     "bank_phrases ": [ "liven up ", "stay out ", "shoot off ", "catch up ", "mill around " ]
+    },
+    {
+     "exercise_id ": "5.6 ",
+     "title ": "Fill in the gaps, putting the words in the correct order ",
+     "type ": "word_order ",
+     "example ": {
+      "prompt ": "The movie was terrible, so we [1] [2] [3] [4]. ",
+      "correct_answer ": [ "slipped ", "out ", "halfway ", "through " ]
+     },
+     "questions ": [
+      { "id ": "5.6_q1 ", "prompt ": "Nadiya had to [1] [2] [3] [4] the kids from school. ", "word_bank ": [ "off ", "to ", "dash ", "pick " ] },
+      { "id ": "5.6_q2 ", "prompt ": "The carnival was amazing. We [1] [2] [3] [4]. ", "word_bank ": [ "stayed ", "out ", "until ", "dawn " ] },
+      { "id ": "5.6_q3 ", "prompt ": "Fleur and Clare were getting [1] [2] [3] [4] for the evening. ", "word_bank ": [ "ready ", "to ", "go ", "out " ] },
+      { "id ": "5.6_q4 ", "prompt ": "Our local hotel has a large room that it [1] [2] [3] parties. ", "word_bank ": [ "hires ", "out ", "for " ] }
+     ]
+    }
+   ]
+  }
+ ]
+}
