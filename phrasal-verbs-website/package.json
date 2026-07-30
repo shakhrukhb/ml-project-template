@@ -1,0 +1,30 @@
+{
+  "name": "phrasal-verbs-website",
+  "version": "1.0.0",
+  "description": "Full-stack website for learning English phrasal verbs from 'English for Everyone: English Phrasal Verbs'",
+  "scripts": {
+    "start": "node backend/server.js",
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "server": "nodemon backend/server.js",
+    "client": "cd frontend && npm run dev",
+    "build": "cd frontend && npm run build",
+    "install-all": "npm install && cd frontend && npm install"
+  },
+  "keywords": [
+    "english",
+    "phrasal-verbs",
+    "learning",
+    "education"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "concurrently": "^9.2.4",
+    "nodemon": "^3.1.7"
+  }
+}
